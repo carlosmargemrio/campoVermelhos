@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260616_091130.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260616_091130",
+        "arquivo": "TimePhoto_20260616_091130.jpg",
+        "caminho": "IMGS/TimePhoto_20260616_091130.jpg",
+        "lat": -9.303278055555555,
+        "lon": -39.92610166666667,
+        "latlon": "-9.303278, -39.926102",
+        "utm": "24L 398290 8971485",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 398290,
+        "utm_northing": 8971485,
+        "utm_hemisphere": "S",
+        "data": "16/06/2026",
+        "horario": "09:11",
+        "legenda": "Monitoramento da demarcação da área a ser suprimida",
+        "hash_md5": null,
+        "hash_sha256": "63de79b0a1ebe6c2a4e4c291b7e0c213b6abc2c9ada1e0eb386172ae3d6ab68f",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.92610166666667,
+          -9.303278055555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260616_092425.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260616_092425",
+        "arquivo": "TimePhoto_20260616_092425.jpg",
+        "caminho": "IMGS/TimePhoto_20260616_092425.jpg",
+        "lat": -9.30247138888889,
+        "lon": -39.92616472222222,
+        "latlon": "-9.302471, -39.926165",
+        "utm": "24L 398283 8971574",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 398283,
+        "utm_northing": 8971574,
+        "utm_hemisphere": "S",
+        "data": "16/06/2026",
+        "horario": "09:24",
+        "legenda": "Detalhe da vegetação na área a ser suprimida ",
+        "hash_md5": null,
+        "hash_sha256": "54274bd9ee82eb5bf68fbf231da1760ca738db2555e4e280dec0c4458ab99994",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.92616472222222,
+          -9.30247138888889
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MQFD4FXK",
+    "dataCampo": "2026-06-16",
+    "horaIni": "09:00",
+    "horaFim": "10:44",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Empreendimento Minéro-Industrial N8N9 - Juazeiro - BA",
+    "localidade": "Juazeiro - BA",
+    "empresaExecutora": "HAS CONSULTORIA",
+    "fichaNumero": "011",
+    "coordenadasTexto": null,
+    "coordCampo": "Carlos Rocha ",
+    "arqResp": null,
+    "cargoResponsavel": null,
+    "trecho": "Sutura área para supressão vegetal",
+    "tipoIntervencao": "Outros",
+    "tipoIntervencaoOutro": "Delimitação de área",
+    "tipoAcao": "Delimitação de área para supressão vegetal ",
+    "clima": "Ensolarado",
+    "climaOutro": null,
+    "vegetacao": null,
+    "relevo": null,
+    "solo": "Arenoso / Areno-argiloso",
+    "granulometria": "Média",
+    "vestigios": "NAO",
+    "tipoEvidencia": null,
+    "materiaisEncontrados": null,
+    "tipoMaterial": null,
+    "tipoMaterialOutro": null,
+    "coleta": "NAO",
+    "amostrasAnalise": null,
+    "fotografias": null,
+    "croquis": null,
+    "houveAlteracaoContexto": null,
+    "medidasAdotadas": null,
+    "interrupcaoAtividade": null,
+    "motivoInterrupcao": null,
+    "observacoesRecomendacoes": "A vistoria não foi concluída porque a supressão vegetal inicialmente cogitada foi cancelada antes do início da intervenção. Não houve revolvimento do solo nem exposição de novas superfícies. Recomenda-se que eventual retomada da atividade seja previamente comunicada, permitindo a conclusão da vistoria arqueológica e o acompanhamento concomitante à supressão.",
+    "observacoesExtras": null,
+    "desc": "Ao chegar ao empreendimento, foi informado que o acesso à área operacional interna permanecia sem liberação. Diante da possibilidade de realização de supressão vegetal em setor situado fora do cercamento da mineradora, porém inserido na ADA, houve deslocamento até a área indicada para monitoramento.\nNo local, a equipe de topografia iniciou a demarcação dos limites previstos para a intervenção, acompanhada pela equipe de biologia, responsável pela observação da fauna e por eventuais procedimentos de manejo ou salvamento, especialmente de animais peçonhentos. Simultaneamente, foi iniciada a vistoria arqueológica ao longo da linha delimitada, abrangendo uma faixa aproximada de 3 m para o interior da futura intervenção, correspondente à largura da lâmina do trator de esteira.\nAntes da conclusão da vistoria, foi comunicado que não seria realizada supressão vegetal fora dos limites cercados da mina. Dessa forma, o procedimento foi interrompido e houve retorno à portaria, onde se confirmou que o acesso à área operacional interna ainda não havia sido liberado, encerrando-se as atividades do período.",
+    "obs": null,
+    "modeloDocx": "HAS_ACOMPANHAMENTO",
+    "status": "COMPLETED",
+    "imagens_sem_gps": []
+  }
+}
