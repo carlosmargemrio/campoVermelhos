@@ -1,0 +1,202 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260622_090229.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260622_090229",
+        "arquivo": "TimePhoto_20260622_090229.jpg",
+        "caminho": "IMGS/TimePhoto_20260622_090229.jpg",
+        "lat": -9.304969722222223,
+        "lon": -39.93726972222222,
+        "latlon": "-9.304970, -39.937270",
+        "utm": "24L 397064 8971295",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 397064,
+        "utm_northing": 8971295,
+        "utm_hemisphere": "S",
+        "data": "22/06/2026",
+        "horario": "09:02",
+        "legenda": "Detalhe da vegetação preservada na área da POP-U",
+        "hash_md5": null,
+        "hash_sha256": "c0083e04e284575baa5d9754268e5bc234ef6231b816d4d2474214bbc4beb71c",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93726972222222,
+          -9.304969722222223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260622_100618.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260622_100618",
+        "arquivo": "TimePhoto_20260622_100618.jpg",
+        "caminho": "IMGS/TimePhoto_20260622_100618.jpg",
+        "lat": -9.304574722222222,
+        "lon": -39.93912333333333,
+        "latlon": "-9.304575, -39.939123",
+        "utm": "24L 396861 8971338",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396861,
+        "utm_northing": 8971338,
+        "utm_hemisphere": "S",
+        "data": "22/06/2026",
+        "horario": "10:06",
+        "legenda": "Instrumento lítico plano-convexo em quartzo leitoso registrado durante a prospecção de superfície",
+        "hash_md5": null,
+        "hash_sha256": "9bc4f23652ad9e61c4c01f940e8d8241997db37fe558c4700c0232aeb39b1a7a",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93912333333333,
+          -9.304574722222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260622_134327.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260622_134327",
+        "arquivo": "TimePhoto_20260622_134327.jpg",
+        "caminho": "IMGS/TimePhoto_20260622_134327.jpg",
+        "lat": -9.304659722222222,
+        "lon": -39.93918333333333,
+        "latlon": "-9.304660, -39.939183",
+        "utm": "24L 396854 8971329",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396854,
+        "utm_northing": 8971329,
+        "utm_hemisphere": "S",
+        "data": "22/06/2026",
+        "horario": "13:43",
+        "legenda": "Setor com vegetação densa no POP-U, exigindo prospecção oportunística dirigida em janelas de visibilidade",
+        "hash_md5": null,
+        "hash_sha256": "aa5b45b6ca2a80715eda4c762f3910a860365ceed42ba71e9a7ba00f883b2faa",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93918333333333,
+          -9.304659722222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260622_144245.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260622_144245",
+        "arquivo": "TimePhoto_20260622_144245.jpg",
+        "caminho": "IMGS/TimePhoto_20260622_144245.jpg",
+        "lat": -9.304721666666667,
+        "lon": -39.93885972222222,
+        "latlon": "-9.304722, -39.938860",
+        "utm": "24L 396890 8971322",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396890,
+        "utm_northing": 8971322,
+        "utm_hemisphere": "S",
+        "data": "22/06/2026",
+        "horario": "14:42",
+        "legenda": "Vista geral da paisagem no POP-U, com Caatinga arbustiva e visibilidade superficial variável",
+        "hash_md5": null,
+        "hash_sha256": "ee5f660c7c1d31eb0cbf519c71a1a06abe771c1252a218e816a14e15ae6eb1b2",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93885972222222,
+          -9.304721666666667
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MQMXS644",
+    "dataCampo": "2026-06-22",
+    "horaIni": "08:28",
+    "horaFim": "15:34",
+    "atividade": "Prospecção",
+    "categoria": "ADA",
+    "projeto": "Empreendimento Minéro-Industrial N8N9 - Juazeiro - BA",
+    "localidade": "Juazeiro - BA",
+    "empresaExecutora": "HAS CONSULTORIA",
+    "fichaNumero": "012",
+    "coordenadasTexto": null,
+    "coordCampo": "Carlos Rocha ",
+    "arqResp": "Carlos Rocha",
+    "cargoResponsavel": "Arqueólogo ",
+    "trecho": "Cava N8",
+    "tipoIntervencao": "Outros",
+    "tipoIntervencaoOutro": "Prospecção arqueológica em superfície ",
+    "tipoAcao": "Não houve ação ",
+    "clima": "Ensolarado",
+    "climaOutro": null,
+    "vegetacao": null,
+    "relevo": null,
+    "solo": "Silto-argiloso / Areno-argiloso",
+    "granulometria": "Média",
+    "vestigios": "SIM",
+    "tipoEvidencia": "Pré-colonial",
+    "materiaisEncontrados": "SIM",
+    "tipoMaterial": "Lítico",
+    "tipoMaterialOutro": null,
+    "coleta": "NAO",
+    "amostrasAnalise": "NAO",
+    "fotografias": "SIM",
+    "croquis": "NAO",
+    "houveAlteracaoContexto": null,
+    "medidasAdotadas": "Caminhamento sistemático nos trechos com boa visibilidade; prospecção oportunística dirigida nos setores com vegetação densa; vistoria de clareiras, cascalheiras, concentrações de quartzo, exposições de solo e áreas de melhor leitura superficial; registro fotográfico da paisagem e do artefato identificado.",
+    "interrupcaoAtividade": null,
+    "motivoInterrupcao": null,
+    "observacoesRecomendacoes": "A identificação de nova ocorrência lítica em quartzo leitoso, preliminarmente interpretada como possível raspador plano-convexo, reforça a necessidade de controle espacial sistemático dos vestígios no interior do POP-U. Recomenda-se à sala técnica de geoprocessamento a organização de base cartográfica específica para o perímetro, com inserção dos vértices do POP-U, dos pontos de ocorrência já registrados, dos setores efetivamente vistoriados, das áreas com baixa visibilidade e dos trechos ainda pendentes de prospecção. Em campo, os próximos procedimentos deverão articular a distribuição superficial dos materiais à implantação de pontos de sondagem, tradagem e/ou raspagem controlada, a fim de verificar continuidade, densidade, profundidade e associação contextual dos vestígios em superfície e subsuperfície.",
+    "observacoesExtras": null,
+    "desc": "Foi realizada prospecção arqueológica de superfície no interior do Perímetro Operacional de Prospecção Unificado (POP-U), com o objetivo de avançar na delimitação preliminar da dispersão dos vestígios em superfície e avaliar a possibilidade de concentração arqueológica associada às ocorrências anteriormente registradas. A vistoria foi conduzida por caminhamento sistemático nos trechos com melhor visibilidade e por prospecção oportunística dirigida nos setores em que o adensamento da vegetação impediu a manutenção de linhas contínuas de deslocamento.\nA adoção da prospecção oportunística dirigida decorreu das condições locais de cobertura vegetal, caracterizadas por Caatinga arbustiva e arbóreo-arbustiva, com presença de gramíneas secas, galhos, serrapilheira, arbustos densos e trechos de difícil acesso visual. Nessas áreas, a observação foi direcionada às janelas naturais de visibilidade, clareiras, trilhas de passagem, pequenas exposições de solo, áreas de cascalheira, concentrações de quartzo, bordas de drenagens sazonais e setores onde a superfície se encontrava menos encoberta. Dessa forma, mesmo nos trechos em que não foi possível manter caminhamento linear regular, a vistoria preservou critério técnico, priorizando pontos com maior potencial de exposição de vestígios.\nA paisagem observada apresenta relevo predominantemente plano a levemente ondulado, com cobertura vegetal típica de Caatinga e visibilidade arqueológica variável. Em superfície, foram observados sedimentos areno-siltosos a arenoargilosos, cascalheiras e fragmentos de quartzo além de seixos e blocos dispersos. A presença de vegetação densa em alguns setores reduziu a leitura contínua da superfície, reforçando a necessidade de registro das áreas efetivamente vistoriadas e da posterior organização espacial dos materiais localizados.\nDurante a prospecção, foi identificado novo artefato lítico em quartzo leitoso, preliminarmente interpretado como possível raspador plano-convexo. A peça apresenta morfologia compatível com suporte lascado, com uma face mais convexa, bordas modificadas e negativos de retirada observáveis macroscopicamente. A classificação funcional permanece preliminar, devendo ser confirmada por análise tecnológica mais detalhada, especialmente quanto à presença de retoques contínuos, ângulo do bordo ativo, marcas de uso, organização das retiradas e distinção entre fraturas naturais e ação antrópica.\nA etapa de prospecção superficial constitui fase preliminar à delimitação e investigação em subsuperfície, necessária para verificar se os materiais arqueológicos apresentam continuidade vertical, associação deposicional e preservação contextual. Nesse sentido, os próximos procedimentos incluirão, conforme definição metodológica da coordenação arqueológica, a execução de sondagens, tradagens e/ou raspagens controladas em pontos selecionados a partir da distribuição superficial dos vestígios, priorizando as áreas com maior concentração de materiais, os setores de menor visibilidade superficial e os pontos de transição entre áreas com presença e ausência de vestígios. Esses procedimentos permitirão avaliar a profundidade dos materiais, a presença de níveis arqueológicos inumados, possíveis feições, alterações físico-químicas do solo e a existência ou não de continuidade arqueológica em subsuperfície.",
+    "obs": null,
+    "modeloDocx": "HAS_ACOMPANHAMENTO",
+    "status": "COMPLETED",
+    "imagens_sem_gps": []
+  }
+}
