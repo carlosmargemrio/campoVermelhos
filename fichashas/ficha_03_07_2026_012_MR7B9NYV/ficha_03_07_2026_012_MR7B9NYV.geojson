@@ -1,0 +1,1066 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260703_095939.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260703_095939",
+        "arquivo": "TimePhoto_20260703_095939.jpg",
+        "caminho": "IMGS/TimePhoto_20260703_095939.jpg",
+        "lat": -9.304773055555556,
+        "lon": -39.93865833333333,
+        "latlon": "-9.304773, -39.938658",
+        "utm": "24L 396912 8971316",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396912,
+        "utm_northing": 8971316,
+        "utm_hemisphere": "S",
+        "data": "03/07/2026",
+        "horario": "09:59",
+        "legenda": "POP-U/ST-01/TC 22 cm",
+        "hash_md5": null,
+        "hash_sha256": "a5e5af7357fd861b41fa2fed421667fe0acb2e33a54a91b211eec994dc8b8c65",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93865833333333,
+          -9.304773055555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260703_100255.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260703_100255",
+        "arquivo": "TimePhoto_20260703_100255.jpg",
+        "caminho": "IMGS/TimePhoto_20260703_100255.jpg",
+        "lat": -9.30472638888889,
+        "lon": -39.93865972222222,
+        "latlon": "-9.304726, -39.938660",
+        "utm": "24L 396912 8971321",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396912,
+        "utm_northing": 8971321,
+        "utm_hemisphere": "S",
+        "data": "03/07/2026",
+        "horario": "10:02",
+        "legenda": "POP-U/ST-01/N01 24 cm",
+        "hash_md5": null,
+        "hash_sha256": "0423c269645adf6ea8e7bf39864815ad2eea2f171028e52ae1d1b6b5db5a6a25",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93865972222222,
+          -9.30472638888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260703_100739.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260703_100739",
+        "arquivo": "TimePhoto_20260703_100739.jpg",
+        "caminho": "IMGS/TimePhoto_20260703_100739.jpg",
+        "lat": -9.304679722222224,
+        "lon": -39.93864472222222,
+        "latlon": "-9.304680, -39.938645",
+        "utm": "24L 396913 8971326",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396913,
+        "utm_northing": 8971326,
+        "utm_hemisphere": "S",
+        "data": "03/07/2026",
+        "horario": "10:07",
+        "legenda": "POP-U/ST-01/N02 9 cm",
+        "hash_md5": null,
+        "hash_sha256": "824f6991a0d3804467b5df6b584758954ca5fc01466c23bfa4f0c0de14123d45",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93864472222222,
+          -9.304679722222224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260703_101056.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260703_101056",
+        "arquivo": "TimePhoto_20260703_101056.jpg",
+        "caminho": "IMGS/TimePhoto_20260703_101056.jpg",
+        "lat": -9.30477138888889,
+        "lon": -39.93861138888889,
+        "latlon": "-9.304771, -39.938611",
+        "utm": "24L 396917 8971316",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396917,
+        "utm_northing": 8971316,
+        "utm_hemisphere": "S",
+        "data": "03/07/2026",
+        "horario": "10:10",
+        "legenda": "POP-U/ST-01/L01 25 cm",
+        "hash_md5": null,
+        "hash_sha256": "ba7bc1523060a10c1e2b11c65f192b3739995d15bba50406fff4cf3409277965",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93861138888889,
+          -9.30477138888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260703_101342.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260703_101342",
+        "arquivo": "TimePhoto_20260703_101342.jpg",
+        "caminho": "IMGS/TimePhoto_20260703_101342.jpg",
+        "lat": -9.30476,
+        "lon": -39.938561666666665,
+        "latlon": "-9.304760, -39.938562",
+        "utm": "24L 396922 8971318",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396922,
+        "utm_northing": 8971318,
+        "utm_hemisphere": "S",
+        "data": "03/07/2026",
+        "horario": "10:13",
+        "legenda": "POP-U/ST-01/L02 24 cm",
+        "hash_md5": null,
+        "hash_sha256": "f7afde1edec6375521af556282337bae6fc5e43fbee342213e371f0770c956bc",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.938561666666665,
+          -9.30476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260703_101733.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260703_101733",
+        "arquivo": "TimePhoto_20260703_101733.jpg",
+        "caminho": "IMGS/TimePhoto_20260703_101733.jpg",
+        "lat": -9.304764722222222,
+        "lon": -39.93872472222222,
+        "latlon": "-9.304765, -39.938725",
+        "utm": "24L 396904 8971317",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396904,
+        "utm_northing": 8971317,
+        "utm_hemisphere": "S",
+        "data": "03/07/2026",
+        "horario": "10:17",
+        "legenda": "POP-U/ST-01/O01 21 cm",
+        "hash_md5": null,
+        "hash_sha256": "4c23b0b1adb602be1bc4ad8cc8df84a7795424aeacff92e143dc24122978a1c5",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93872472222222,
+          -9.304764722222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260703_102006.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260703_102006",
+        "arquivo": "TimePhoto_20260703_102006.jpg",
+        "caminho": "IMGS/TimePhoto_20260703_102006.jpg",
+        "lat": -9.304761666666668,
+        "lon": -39.938761388888885,
+        "latlon": "-9.304762, -39.938761",
+        "utm": "24L 396900 8971317",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396900,
+        "utm_northing": 8971317,
+        "utm_hemisphere": "S",
+        "data": "03/07/2026",
+        "horario": "10:20",
+        "legenda": "POP-U/ST-01/O02 24 cm",
+        "hash_md5": null,
+        "hash_sha256": "6b93c15c4ba628810a5e53d1d7f5f6aedfe1af3ae0e26a73350acecb9d2e59bd",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.938761388888885,
+          -9.304761666666668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260703_102508.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260703_102508",
+        "arquivo": "TimePhoto_20260703_102508.jpg",
+        "caminho": "IMGS/TimePhoto_20260703_102508.jpg",
+        "lat": -9.30481638888889,
+        "lon": -39.93868305555555,
+        "latlon": "-9.304816, -39.938683",
+        "utm": "24L 396909 8971311",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396909,
+        "utm_northing": 8971311,
+        "utm_hemisphere": "S",
+        "data": "03/07/2026",
+        "horario": "10:25",
+        "legenda": "POP-U/ST-01/S01 23 cm",
+        "hash_md5": null,
+        "hash_sha256": "770c6c0998dcfa57f0e30e375c6a49d9d1385a19a1c1f143aacde4b222159141",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93868305555555,
+          -9.30481638888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260703_102836.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260703_102836",
+        "arquivo": "TimePhoto_20260703_102836.jpg",
+        "caminho": "IMGS/TimePhoto_20260703_102836.jpg",
+        "lat": -9.30487638888889,
+        "lon": -39.93867333333333,
+        "latlon": "-9.304876, -39.938673",
+        "utm": "24L 396910 8971305",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396910,
+        "utm_northing": 8971305,
+        "utm_hemisphere": "S",
+        "data": "03/07/2026",
+        "horario": "10:28",
+        "legenda": "POP-U/ST-01/S02 25 cm",
+        "hash_md5": null,
+        "hash_sha256": "0ec0a6b57255b9ae66589a4505adcee549444838d2da3361f34c7f6da13c2ed6",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93867333333333,
+          -9.30487638888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260703_104635.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260703_104635",
+        "arquivo": "TimePhoto_20260703_104635.jpg",
+        "caminho": "IMGS/TimePhoto_20260703_104635.jpg",
+        "lat": -9.304584722222224,
+        "lon": -39.93913,
+        "latlon": "-9.304585, -39.939130",
+        "utm": "24L 396860 8971337",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396860,
+        "utm_northing": 8971337,
+        "utm_hemisphere": "S",
+        "data": "03/07/2026",
+        "horario": "10:46",
+        "legenda": "POP-U/ST-02/TC 30 cm",
+        "hash_md5": null,
+        "hash_sha256": "c2ff99310332586be09679b1e468dbc6be2f59c178b6db6678307eb04bc0a17e",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93913,
+          -9.304584722222224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260703_105038.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260703_105038",
+        "arquivo": "TimePhoto_20260703_105038.jpg",
+        "caminho": "IMGS/TimePhoto_20260703_105038.jpg",
+        "lat": -9.30453138888889,
+        "lon": -39.93912805555555,
+        "latlon": "-9.304531, -39.939128",
+        "utm": "24L 396860 8971343",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396860,
+        "utm_northing": 8971343,
+        "utm_hemisphere": "S",
+        "data": "03/07/2026",
+        "horario": "10:50",
+        "legenda": "POP-U/ST-02/N01 29 cm",
+        "hash_md5": null,
+        "hash_sha256": "79f7980d0a597670a410b80d296841ceb9be7bc76cdf5a8ab606709bb61df848",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93912805555555,
+          -9.30453138888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260703_105340.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260703_105340",
+        "arquivo": "TimePhoto_20260703_105340.jpg",
+        "caminho": "IMGS/TimePhoto_20260703_105340.jpg",
+        "lat": -9.304498333333335,
+        "lon": -39.93911166666666,
+        "latlon": "-9.304498, -39.939112",
+        "utm": "24L 396862 8971346",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396862,
+        "utm_northing": 8971346,
+        "utm_hemisphere": "S",
+        "data": "03/07/2026",
+        "horario": "10:53",
+        "legenda": "POP-U/ST-02/N02 23 cm",
+        "hash_md5": null,
+        "hash_sha256": "ee353ea30f58403f61cd5a2035019f1c5681266aa54853a04e071cfc9f7138b9",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93911166666666,
+          -9.304498333333335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260703_105707.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260703_105707",
+        "arquivo": "TimePhoto_20260703_105707.jpg",
+        "caminho": "IMGS/TimePhoto_20260703_105707.jpg",
+        "lat": -9.304571666666668,
+        "lon": -39.93908805555555,
+        "latlon": "-9.304572, -39.939088",
+        "utm": "24L 396864 8971338",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396864,
+        "utm_northing": 8971338,
+        "utm_hemisphere": "S",
+        "data": "03/07/2026",
+        "horario": "10:57",
+        "legenda": "POP-U/ST-02/L01 23 cm",
+        "hash_md5": null,
+        "hash_sha256": "10b15c9fca2edda967fffaeb9bd2756b36805f07c9503cd3582ad1a48eaec169",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93908805555555,
+          -9.304571666666668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260703_105830.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260703_105830",
+        "arquivo": "TimePhoto_20260703_105830.jpg",
+        "caminho": "IMGS/TimePhoto_20260703_105830.jpg",
+        "lat": -9.304581666666667,
+        "lon": -39.93904166666666,
+        "latlon": "-9.304582, -39.939042",
+        "utm": "24L 396870 8971337",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396870,
+        "utm_northing": 8971337,
+        "utm_hemisphere": "S",
+        "data": "03/07/2026",
+        "horario": "10:58",
+        "legenda": "POP-U/ST-02/L02 22 cm",
+        "hash_md5": null,
+        "hash_sha256": "c94dfa0c2c80df6a8e6e8ac00c2c0d5c0c70ecffd394779cb656043d6042e504",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93904166666666,
+          -9.304581666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260703_110239.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260703_110239",
+        "arquivo": "TimePhoto_20260703_110239.jpg",
+        "caminho": "IMGS/TimePhoto_20260703_110239.jpg",
+        "lat": -9.304580000000001,
+        "lon": -39.939166388888886,
+        "latlon": "-9.304580, -39.939166",
+        "utm": "24L 396856 8971337",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396856,
+        "utm_northing": 8971337,
+        "utm_hemisphere": "S",
+        "data": "03/07/2026",
+        "horario": "11:02",
+        "legenda": "POP-U/ST-02/O01 21 cm",
+        "hash_md5": null,
+        "hash_sha256": "85056d0e291e8dcb45ddcffc84e3c47ec060d89a3462d8268745cea326454c2d",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.939166388888886,
+          -9.304580000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260703_110528.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260703_110528",
+        "arquivo": "TimePhoto_20260703_110528.jpg",
+        "caminho": "IMGS/TimePhoto_20260703_110528.jpg",
+        "lat": -9.304558333333334,
+        "lon": -39.93922833333333,
+        "latlon": "-9.304558, -39.939228",
+        "utm": "24L 396849 8971340",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396849,
+        "utm_northing": 8971340,
+        "utm_hemisphere": "S",
+        "data": "03/07/2026",
+        "horario": "11:05",
+        "legenda": "POP-U/ST-02/O02 23 cm",
+        "hash_md5": null,
+        "hash_sha256": "f2ae099b6875b8260fc317190eb0124b19d8b4dc8ccbb67e22b713208164e2e3",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93922833333333,
+          -9.304558333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260703_110838.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260703_110838",
+        "arquivo": "TimePhoto_20260703_110838.jpg",
+        "caminho": "IMGS/TimePhoto_20260703_110838.jpg",
+        "lat": -9.304588333333333,
+        "lon": -39.93910972222222,
+        "latlon": "-9.304588, -39.939110",
+        "utm": "24L 396862 8971336",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396862,
+        "utm_northing": 8971336,
+        "utm_hemisphere": "S",
+        "data": "03/07/2026",
+        "horario": "11:08",
+        "legenda": "POP-U/ST-02/S01 30 cm",
+        "hash_md5": null,
+        "hash_sha256": "f9df054379ca42d38e11b1e45cb628b6b830147283d38109926fa3e08e6d4453",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93910972222222,
+          -9.304588333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260703_111222.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260703_111222",
+        "arquivo": "TimePhoto_20260703_111222.jpg",
+        "caminho": "IMGS/TimePhoto_20260703_111222.jpg",
+        "lat": -9.304661666666668,
+        "lon": -39.93907833333333,
+        "latlon": "-9.304662, -39.939078",
+        "utm": "24L 396866 8971328",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396866,
+        "utm_northing": 8971328,
+        "utm_hemisphere": "S",
+        "data": "03/07/2026",
+        "horario": "11:12",
+        "legenda": "POP-U/ST-02/S02 35 cm",
+        "hash_md5": null,
+        "hash_sha256": "7c87adf74b561b4b398ac4fd6402201bb50b8875e0f402b8e750c060bec31dff",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93907833333333,
+          -9.304661666666668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260703_124017.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260703_124017",
+        "arquivo": "TimePhoto_20260703_124017.jpg",
+        "caminho": "IMGS/TimePhoto_20260703_124017.jpg",
+        "lat": -9.304845,
+        "lon": -39.939274722222216,
+        "latlon": "-9.304845, -39.939275",
+        "utm": "24L 396844 8971308",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396844,
+        "utm_northing": 8971308,
+        "utm_hemisphere": "S",
+        "data": "03/07/2026",
+        "horario": "12:40",
+        "legenda": "POP-U/ST-03/TC 27 cm",
+        "hash_md5": null,
+        "hash_sha256": "515e0b1ecdf0760c4fb31473070ee3ce3a2bb575d2c55d24976fb25644b1495d",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.939274722222216,
+          -9.304845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260703_124306.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260703_124306",
+        "arquivo": "TimePhoto_20260703_124306.jpg",
+        "caminho": "IMGS/TimePhoto_20260703_124306.jpg",
+        "lat": -9.304883333333335,
+        "lon": -39.939276666666665,
+        "latlon": "-9.304883, -39.939277",
+        "utm": "24L 396844 8971304",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396844,
+        "utm_northing": 8971304,
+        "utm_hemisphere": "S",
+        "data": "03/07/2026",
+        "horario": "12:43",
+        "legenda": "POP-U/ST-03/S01 23 cm",
+        "hash_md5": null,
+        "hash_sha256": "54b478874220234748329d39edc82ee88d1231e0271df72f35b604de0aa5cdf5",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.939276666666665,
+          -9.304883333333335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260703_124607.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260703_124607",
+        "arquivo": "TimePhoto_20260703_124607.jpg",
+        "caminho": "IMGS/TimePhoto_20260703_124607.jpg",
+        "lat": -9.304853333333334,
+        "lon": -39.93921472222222,
+        "latlon": "-9.304853, -39.939215",
+        "utm": "24L 396851 8971307",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396851,
+        "utm_northing": 8971307,
+        "utm_hemisphere": "S",
+        "data": "03/07/2026",
+        "horario": "12:46",
+        "legenda": "POP-U/ST-03/L01 21 cm",
+        "hash_md5": null,
+        "hash_sha256": "69ff277128de02992bf84f811b9bbb94ab0b39defb956e290c97dd171c94d508",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93921472222222,
+          -9.304853333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260703_124716.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260703_124716",
+        "arquivo": "TimePhoto_20260703_124716.jpg",
+        "caminho": "IMGS/TimePhoto_20260703_124716.jpg",
+        "lat": -9.304869722222223,
+        "lon": -39.93915666666666,
+        "latlon": "-9.304870, -39.939157",
+        "utm": "24L 396857 8971305",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396857,
+        "utm_northing": 8971305,
+        "utm_hemisphere": "S",
+        "data": "03/07/2026",
+        "horario": "12:47",
+        "legenda": "",
+        "hash_md5": null,
+        "hash_sha256": "9e5c9ac270d3b3b83500968816475e75947499dd230fe9c097e111ee3fa330aa",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93915666666666,
+          -9.304869722222223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260703_124918.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260703_124918",
+        "arquivo": "TimePhoto_20260703_124918.jpg",
+        "caminho": "IMGS/TimePhoto_20260703_124918.jpg",
+        "lat": -9.304883333333335,
+        "lon": -39.93915,
+        "latlon": "-9.304883, -39.939150",
+        "utm": "24L 396858 8971304",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396858,
+        "utm_northing": 8971304,
+        "utm_hemisphere": "S",
+        "data": "03/07/2026",
+        "horario": "12:49",
+        "legenda": "POP-U/ST-03/L02 23 cm",
+        "hash_md5": null,
+        "hash_sha256": "da1729ab6bb2380df552438e3744d2e28a83c212919a817b83010cf6e596ceb4",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93915,
+          -9.304883333333335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260703_125156.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260703_125156",
+        "arquivo": "TimePhoto_20260703_125156.jpg",
+        "caminho": "IMGS/TimePhoto_20260703_125156.jpg",
+        "lat": -9.304815000000001,
+        "lon": -39.939251666666664,
+        "latlon": "-9.304815, -39.939252",
+        "utm": "24L 396847 8971311",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396847,
+        "utm_northing": 8971311,
+        "utm_hemisphere": "S",
+        "data": "03/07/2026",
+        "horario": "12:51",
+        "legenda": "",
+        "hash_md5": null,
+        "hash_sha256": "cdafcd4ebcc7bd0e935e4dfc6557a91ec6333ee46c3b7ae968c28828134d7c8f",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.939251666666664,
+          -9.304815000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260703_125250.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260703_125250",
+        "arquivo": "TimePhoto_20260703_125250.jpg",
+        "caminho": "IMGS/TimePhoto_20260703_125250.jpg",
+        "lat": -9.304794722222223,
+        "lon": -39.93926305555555,
+        "latlon": "-9.304795, -39.939263",
+        "utm": "24L 396845 8971314",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396845,
+        "utm_northing": 8971314,
+        "utm_hemisphere": "S",
+        "data": "03/07/2026",
+        "horario": "12:52",
+        "legenda": "POP-U/ST-03/N01 27 cm",
+        "hash_md5": null,
+        "hash_sha256": "3f06b1195fad45fed4ac71ca67b53fdb1717aa17181e3e0869353fa2c8f57bcd",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93926305555555,
+          -9.304794722222223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260703_125534.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260703_125534",
+        "arquivo": "TimePhoto_20260703_125534.jpg",
+        "caminho": "IMGS/TimePhoto_20260703_125534.jpg",
+        "lat": -9.304746666666666,
+        "lon": -39.93925972222222,
+        "latlon": "-9.304747, -39.939260",
+        "utm": "24L 396846 8971319",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396846,
+        "utm_northing": 8971319,
+        "utm_hemisphere": "S",
+        "data": "03/07/2026",
+        "horario": "12:55",
+        "legenda": "POP-U/ST-03/N02 28 cm",
+        "hash_md5": null,
+        "hash_sha256": "bd132d423c976db749a0dd0673ea6380b2ff5ff86aeedaade9896939c53ba2d7",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93925972222222,
+          -9.304746666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260703_125845.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260703_125845",
+        "arquivo": "TimePhoto_20260703_125845.jpg",
+        "caminho": "IMGS/TimePhoto_20260703_125845.jpg",
+        "lat": -9.304845,
+        "lon": -39.93933472222222,
+        "latlon": "-9.304845, -39.939335",
+        "utm": "24L 396837 8971308",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396837,
+        "utm_northing": 8971308,
+        "utm_hemisphere": "S",
+        "data": "03/07/2026",
+        "horario": "12:58",
+        "legenda": "POP-U/ST-03/O01 27 cm",
+        "hash_md5": null,
+        "hash_sha256": "973780f94285ad01adf42c306708e70275aa1e1efe7e6cd986918a5c316ee33b",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93933472222222,
+          -9.304845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260703_130144.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260703_130144",
+        "arquivo": "TimePhoto_20260703_130144.jpg",
+        "caminho": "IMGS/TimePhoto_20260703_130144.jpg",
+        "lat": -9.304796388888889,
+        "lon": -39.93939472222222,
+        "latlon": "-9.304796, -39.939395",
+        "utm": "24L 396831 8971313",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396831,
+        "utm_northing": 8971313,
+        "utm_hemisphere": "S",
+        "data": "03/07/2026",
+        "horario": "13:01",
+        "legenda": "POP-U/ST-03/O02 27 cm",
+        "hash_md5": null,
+        "hash_sha256": "969381a9bea456c32b5f5b3fc26189ff7c35f39d1e1fa32b25bda26f03ae62e8",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93939472222222,
+          -9.304796388888889
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MR7B9NYV",
+    "dataCampo": "2026-07-03",
+    "horaIni": "09:31",
+    "horaFim": "16:40",
+    "atividade": "Delimitação de sítio arqueológico",
+    "categoria": "ADA",
+    "projeto": "Empreendimento Minéro-Industrial N8N9 - Juazeiro - BA",
+    "localidade": "Juazeiro - BA",
+    "empresaExecutora": "HAS CONSULTORIA",
+    "fichaNumero": "012",
+    "coordenadasTexto": null,
+    "coordCampo": "Carlos Rocha",
+    "arqResp": "Carlos Rocha",
+    "cargoResponsavel": "Arqueólogo",
+    "trecho": "Cava N8",
+    "tipoIntervencao": "Sondagem",
+    "tipoIntervencaoOutro": "Tradagem",
+    "tipoAcao": "NA",
+    "clima": "Nublado",
+    "climaOutro": null,
+    "vegetacao": null,
+    "relevo": null,
+    "solo": "Silto-arenoso",
+    "granulometria": "Média",
+    "vestigios": "SIM",
+    "tipoEvidencia": "Pré-colonial",
+    "materiaisEncontrados": "SIM",
+    "tipoMaterial": "Lítico",
+    "tipoMaterialOutro": null,
+    "coleta": "NAO",
+    "amostrasAnalise": null,
+    "fotografias": null,
+    "croquis": null,
+    "houveAlteracaoContexto": null,
+    "medidasAdotadas": null,
+    "interrupcaoAtividade": null,
+    "motivoInterrupcao": null,
+    "observacoesRecomendacoes": null,
+    "observacoesExtras": null,
+    "desc": "Foi iniciada a etapa de delimitação em subsuperfície no interior do POP-U, com o objetivo de verificar se as ocorrências arqueológicas identificadas em superfície durante o monitoramento e as prospecções anteriores apresentam continuidade vertical, associação deposicional e distribuição espacial compatível com a caracterização de contexto arqueológico. Os trabalhos partiram do setor de maior concentração de vestígios previamente registrados, especialmente nas proximidades do matacão com superfície de moagem, da mão de mó/instrumento ativo de moagem e dos demais vestígios líticos identificados em superfície, conforme o histórico deste monitoramento. A definição inicial do setor de investigação decorreu da concentração local de materiais arqueológicos em superfície, da diversidade tipológica dos vestígios identificados e da necessidade de verificar sua eventual continuidade em subsuperfície. Como dado de contextualização arqueológica, registra-se que o setor da POP-U situa-se relativamente próximo ao Sítio Faveleira, já identificado e resgatado no âmbito do Projeto Vermelhos, cujo registro indica contexto lítico a céu aberto, em ambiente de Caatinga, com cascalheiras, solo arenoargiloso, materiais líticos em superfície e ocorrência de vestígios em subsuperfície em determinados setores. Desse modo, a etapa em curso busca produzir informações sobre a POP-U, especialmente quanto à dispersão horizontal dos materiais, profundidade, características sedimentares, densidade de vestígios e presença ou ausência de elementos arqueológicos em subsuperfície, de modo a subsidiar a avaliação técnica posterior sobre a natureza e os limites do contexto registrado. Inicialmente, foram realizadas 26 tradagens com cavadeira manual/articulada, seguindo controle de rebaixamento por níveis artificiais de 10 cm, com observação do sedimento retirado e peneiramento do material escavado. As tradagens foram distribuídas a partir dos pontos de maior concentração superficial, com uma intervenção central e outras irradiadas em direção aos pontos cardeais, em espaçamentos aproximados de 5 a 10 m, conforme as condições de vegetação, acesso e visibilidade do terreno. Quando duas tradagens consecutivas em um mesmo alinhamento apresentaram resultado negativo, a verificação daquele eixo foi considerada preliminarmente encerrada, sendo iniciada nova direção a partir da área central de referência. Durante a execução das tradagens, não foram observadas mudanças macroscópicas significativas de cor ou textura ao longo dos primeiros níveis escavados. O sedimento manteve aspecto predominantemente fino, com composição areno-siltosa, coloração amarelada e presença de agregados, grânulos e cascalho. Em geral, entre aproximadamente 25 e 30 cm de profundidade, foi observado aumento expressivo da compactação, formando nível resistente à escavação manual, sem que esse horizonte pudesse ser interpretado como rocha consolidada. Esse nível foi registrado em campo como camada compactada, localmente comparável ao que se denomina “piçarra”. As tradagens realizadas até o momento não evidenciaram materiais arqueológicos em subsuperfície nem feições sedimentares diretamente associáveis à ocupação humana, tais como manchas de combustão, carvão, sedimentos com aparentes modificações físico-químicas, compactações antrópicas, estruturas, concentrações cerâmicas ou resíduos líticos inumados. Dessa forma, os resultados parciais indicam, até o momento, ausência de continuidade vertical nos pontos testados. Paralelamente, foi delimitada em campo uma quadra de 5 x 5 m, totalizando 25 m², demarcada com fita zebrada e estacas nos vértices, em área selecionada pela proximidade com o matacão com superfície de moagem e com a mão de mó/instrumento ativo de moagem. A intenção inicial era realizar limpeza superficial controlada para permitir triagem visual mais completa da área, uma vez que a presença de gramíneas e vegetação densa dificultava a leitura contínua da superfície. Contudo, antes do início da limpeza, foram identificadas novas ocorrências em superfície no interior da quadra delimitada, incluindo percutor sobre seixo ovoide, com superfície bastante polida/rolada e desgaste acentuado em uma das laterais, além de raspador plano-convexo em quartzo leitoso. A identificação desses materiais alterou a estratégia inicial, pois a raspagem superficial, naquele momento, poderia modificar a disposição original dos vestígios e comprometer a leitura da deposição superficial antes da manifestação técnica da coordenação do projeto e do Iphan sobre a melhor estratégia de resgate, preservação in situ ou ampliação da investigação. Diante disso, a quadra foi mantida delimitada, mas a limpeza/raspagem superficial foi adiada. Optou-se por priorizar a execução de tradagens no entorno e no interior do setor, a fim de verificar a existência de continuidade em subsuperfície sem alterar previamente a configuração superficial dos materiais arqueológicos. Até o momento, as tradagens associadas a essa quadra não confirmaram a presença de vestígios enterrados, permanecendo a concentração registrada principalmente em superfície. \nComo encaminhamento técnico, pretende-se realizar raspagens controladas preferencialmente em áreas sem vestígios arqueológicos visíveis em superfície, evitando alterar contextos onde a disposição superficial dos materiais ainda precise ser registrada e avaliada. Também está prevista a abertura de sondagens do tipo trincheira, com dimensões aproximadas de 1 x 2 m, em pontos selecionados, com a finalidade de compreender melhor a estratigrafia local, avaliar a profundidade dos horizontes compactados, verificar a existência de feições ou níveis arqueológicos e produzir subsídios mais consistentes para as futuras tomadas de decisão quanto à delimitação, resgate ou preservação da área.",
+    "obs": null,
+    "modeloDocx": "TRADAGENS",
+    "status": "COMPLETED",
+    "imagens_sem_gps": []
+  }
+}
