@@ -1,0 +1,922 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "Original_TimePhoto_20260706_132453.jpg",
+      "properties": {
+        "nome": "Original_TimePhoto_20260706_132453",
+        "arquivo": "Original_TimePhoto_20260706_132453.jpg",
+        "caminho": "IMGS/Original_TimePhoto_20260706_132453.jpg",
+        "lat": -9.304835,
+        "lon": -39.938918055555554,
+        "latlon": "-9.304835, -39.938918",
+        "utm": "24L 396883 8971309",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396883,
+        "utm_northing": 8971309,
+        "utm_hemisphere": "S",
+        "data": "06/07/2026",
+        "horario": "13:24",
+        "legenda": "Sedimentos provenientes das três decapagens da Trincheira 01, separados para triagem e observação macroscópica",
+        "hash_md5": null,
+        "hash_sha256": "5a4bd0330cf96de012018b95b74758af532129e76fb56487144dad235309b74f",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.938918055555554,
+          -9.304835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260706_084943.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260706_084943",
+        "arquivo": "TimePhoto_20260706_084943.jpg",
+        "caminho": "IMGS/TimePhoto_20260706_084943.jpg",
+        "lat": -9.304851666666668,
+        "lon": -39.938984999999995,
+        "latlon": "-9.304852, -39.938985",
+        "utm": "24L 396876 8971307",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396876,
+        "utm_northing": 8971307,
+        "utm_hemisphere": "S",
+        "data": "06/07/2026",
+        "horario": "08:49",
+        "legenda": "Vista geral do local de implantação da quadra de raspagem 02",
+        "hash_md5": null,
+        "hash_sha256": "8761ba17490ab8297df7b621527245608d997533546349efdbd05266b3d5e256",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.938984999999995,
+          -9.304851666666668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260706_085857.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260706_085857",
+        "arquivo": "TimePhoto_20260706_085857.jpg",
+        "caminho": "IMGS/TimePhoto_20260706_085857.jpg",
+        "lat": -9.304863055555556,
+        "lon": -39.93897333333333,
+        "latlon": "-9.304863, -39.938973",
+        "utm": "24L 396877 8971306",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396877,
+        "utm_northing": 8971306,
+        "utm_hemisphere": "S",
+        "data": "06/07/2026",
+        "horario": "08:58",
+        "legenda": "Delimitação da quadra de raspagem 02",
+        "hash_md5": null,
+        "hash_sha256": "f07f020e1f2df502cb914bdca3eeeeb9f3feb6770ed948ba1fed31970ff45852",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93897333333333,
+          -9.304863055555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260706_085949.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260706_085949",
+        "arquivo": "TimePhoto_20260706_085949.jpg",
+        "caminho": "IMGS/TimePhoto_20260706_085949.jpg",
+        "lat": -9.304869722222223,
+        "lon": -39.93897333333333,
+        "latlon": "-9.304870, -39.938973",
+        "utm": "24L 396877 8971305",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396877,
+        "utm_northing": 8971305,
+        "utm_hemisphere": "S",
+        "data": "06/07/2026",
+        "horario": "08:59",
+        "legenda": "Vistoria preliminar da Quadra 02 antes da limpeza superficial controlada",
+        "hash_md5": null,
+        "hash_sha256": "2aca74f84621da6ce60957672df098b7807e8cc5197b86a3022cd9567290fae0",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93897333333333,
+          -9.304869722222223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260706_090110.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260706_090110",
+        "arquivo": "TimePhoto_20260706_090110.jpg",
+        "caminho": "IMGS/TimePhoto_20260706_090110.jpg",
+        "lat": -9.304866666666667,
+        "lon": -39.93895166666666,
+        "latlon": "-9.304867, -39.938952",
+        "utm": "24L 396880 8971306",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396880,
+        "utm_northing": 8971306,
+        "utm_hemisphere": "S",
+        "data": "06/07/2026",
+        "horario": "09:01",
+        "legenda": "Registro da limpeza superficial controlada na quadra de raspagem 02",
+        "hash_md5": null,
+        "hash_sha256": "ef7b7e79a9783beaaf0b9075720c6b5103303999097c7371ae9d5b29476898b3",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93895166666666,
+          -9.304866666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260706_091704.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260706_091704",
+        "arquivo": "TimePhoto_20260706_091704.jpg",
+        "caminho": "IMGS/TimePhoto_20260706_091704.jpg",
+        "lat": -9.30485638888889,
+        "lon": -39.938955,
+        "latlon": "-9.304856, -39.938955",
+        "utm": "24L 396879 8971307",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396879,
+        "utm_northing": 8971307,
+        "utm_hemisphere": "S",
+        "data": "06/07/2026",
+        "horario": "09:17",
+        "legenda": "Limpeza controlada da superfície da quadra de raspagem 02 finalizada\n\n",
+        "hash_md5": null,
+        "hash_sha256": "2e29e558436e259fcf42ef40c8e19f60fd233bd87fcf3bf2877942f99999aece",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.938955,
+          -9.30485638888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260706_091725.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260706_091725",
+        "arquivo": "TimePhoto_20260706_091725.jpg",
+        "caminho": "IMGS/TimePhoto_20260706_091725.jpg",
+        "lat": -9.30485638888889,
+        "lon": -39.938955,
+        "latlon": "-9.304856, -39.938955",
+        "utm": "24L 396879 8971307",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396879,
+        "utm_northing": 8971307,
+        "utm_hemisphere": "S",
+        "data": "06/07/2026",
+        "horario": "09:17",
+        "legenda": "Vistoria na quadra de raspagem 02 após limpeza de superfície controlada",
+        "hash_md5": null,
+        "hash_sha256": "9f67554da34591a52b9a5b770ffc3b47580a2031a78b03888c12783230f167bd",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.938955,
+          -9.30485638888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260706_092725.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260706_092725",
+        "arquivo": "TimePhoto_20260706_092725.jpg",
+        "caminho": "IMGS/TimePhoto_20260706_092725.jpg",
+        "lat": -9.30483138888889,
+        "lon": -39.93893805555555,
+        "latlon": "-9.304831, -39.938938",
+        "utm": "24L 396881 8971310",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396881,
+        "utm_northing": 8971310,
+        "utm_hemisphere": "S",
+        "data": "06/07/2026",
+        "horario": "09:27",
+        "legenda": "Abertura da Trincheira 01 no interior da Quadra 02, com limpeza superficial controlada",
+        "hash_md5": null,
+        "hash_sha256": "aa2e14ce13a0d39b31361d3f2a6eee399919a0e41925e9a807534ceb37cced99",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93893805555555,
+          -9.30483138888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260706_092924.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260706_092924",
+        "arquivo": "TimePhoto_20260706_092924.jpg",
+        "caminho": "IMGS/TimePhoto_20260706_092924.jpg",
+        "lat": -9.304808055555556,
+        "lon": -39.93893472222222,
+        "latlon": "-9.304808, -39.938935",
+        "utm": "24L 396881 8971312",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396881,
+        "utm_northing": 8971312,
+        "utm_hemisphere": "S",
+        "data": "06/07/2026",
+        "horario": "09:29",
+        "legenda": "Superfície delimitada da Trincheira 01, na Quadra 02, após limpeza superficial e antes do início das decapagens",
+        "hash_md5": null,
+        "hash_sha256": "721b3cc578c9d39f56cd4681ad91c2c6df66e6f3b36e5cbbb7b9c69bcf452a3c",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93893472222222,
+          -9.304808055555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260706_093230.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260706_093230",
+        "arquivo": "TimePhoto_20260706_093230.jpg",
+        "caminho": "IMGS/TimePhoto_20260706_093230.jpg",
+        "lat": -9.304848055555556,
+        "lon": -39.938918055555554,
+        "latlon": "-9.304848, -39.938918",
+        "utm": "24L 396883 8971308",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396883,
+        "utm_northing": 8971308,
+        "utm_hemisphere": "S",
+        "data": "06/07/2026",
+        "horario": "09:32",
+        "legenda": "Execução da primeira decapagem da Trincheira 01 na Quadra 02",
+        "hash_md5": null,
+        "hash_sha256": "699ef72a266d70875f93d79d7c6f8ef0d0a37126a6b72f724a20606362b48a84",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.938918055555554,
+          -9.304848055555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260706_093511.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260706_093511",
+        "arquivo": "TimePhoto_20260706_093511.jpg",
+        "caminho": "IMGS/TimePhoto_20260706_093511.jpg",
+        "lat": -9.304836666666667,
+        "lon": -39.938901666666666,
+        "latlon": "-9.304837, -39.938902",
+        "utm": "24L 396885 8971309",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396885,
+        "utm_northing": 8971309,
+        "utm_hemisphere": "S",
+        "data": "06/07/2026",
+        "horario": "09:35",
+        "legenda": "Peneiramento do sedimento proveniente da primeira decapagem da Trincheira 01",
+        "hash_md5": null,
+        "hash_sha256": "8b61bea89db3926a912848c74ae287e0eea2bc0f64a44d27d6dc282f71f36c3a",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.938901666666666,
+          -9.304836666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260706_102140.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260706_102140",
+        "arquivo": "TimePhoto_20260706_102140.jpg",
+        "caminho": "IMGS/TimePhoto_20260706_102140.jpg",
+        "lat": -9.304813333333334,
+        "lon": -39.93893166666666,
+        "latlon": "-9.304813, -39.938932",
+        "utm": "24L 396882 8971312",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396882,
+        "utm_northing": 8971312,
+        "utm_hemisphere": "S",
+        "data": "06/07/2026",
+        "horario": "10:21",
+        "legenda": "Vista final da superfície da Trincheira 01 após a primeira decapagem 10 cm",
+        "hash_md5": null,
+        "hash_sha256": "6699c0ee21bd2446535d1cea48eb0a371afc3c125ee77803ff5edda46ed08e19",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93893166666666,
+          -9.304813333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260706_110345.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260706_110345",
+        "arquivo": "TimePhoto_20260706_110345.jpg",
+        "caminho": "IMGS/TimePhoto_20260706_110345.jpg",
+        "lat": -9.304798333333334,
+        "lon": -39.93893666666666,
+        "latlon": "-9.304798, -39.938937",
+        "utm": "24L 396881 8971313",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396881,
+        "utm_northing": 8971313,
+        "utm_hemisphere": "S",
+        "data": "06/07/2026",
+        "horario": "11:03",
+        "legenda": "Vista final da superfície da Trincheira 01 após a segunda decapagem 20 cm",
+        "hash_md5": null,
+        "hash_sha256": "01d595eb0fafc6ea3db9cc702d382d1f66ccca19a6671f13fae0723cdcdb7ef9",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93893666666666,
+          -9.304798333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260706_110757.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260706_110757",
+        "arquivo": "TimePhoto_20260706_110757.jpg",
+        "caminho": "IMGS/TimePhoto_20260706_110757.jpg",
+        "lat": -9.304833055555557,
+        "lon": -39.93892638888889,
+        "latlon": "-9.304833, -39.938926",
+        "utm": "24L 396882 8971309",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396882,
+        "utm_northing": 8971309,
+        "utm_hemisphere": "S",
+        "data": "06/07/2026",
+        "horario": "11:07",
+        "legenda": "Peneiramento do sedimento proveniente da segunda decapagem da Trincheira 01",
+        "hash_md5": null,
+        "hash_sha256": "de097458ed240c2ab3245dcb5c6715d7107e8c793fb975507512cffc3a74f2c9",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93892638888889,
+          -9.304833055555557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260706_131306.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260706_131306",
+        "arquivo": "TimePhoto_20260706_131306.jpg",
+        "caminho": "IMGS/TimePhoto_20260706_131306.jpg",
+        "lat": -9.304823333333333,
+        "lon": -39.93891333333333,
+        "latlon": "-9.304823, -39.938913",
+        "utm": "24L 396884 8971311",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396884,
+        "utm_northing": 8971311,
+        "utm_hemisphere": "S",
+        "data": "06/07/2026",
+        "horario": "13:13",
+        "legenda": "Vista final da superfície da Trincheira 01 após a terceira decapagem 26 cm",
+        "hash_md5": null,
+        "hash_sha256": "9acc75da92e6275374ddb6496eda77419ac7ca6c63f7d44a066cde95f1348f06",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93891333333333,
+          -9.304823333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260706_131811.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260706_131811",
+        "arquivo": "TimePhoto_20260706_131811.jpg",
+        "caminho": "IMGS/TimePhoto_20260706_131811.jpg",
+        "lat": -9.304845,
+        "lon": -39.93893805555555,
+        "latlon": "-9.304845, -39.938938",
+        "utm": "24L 396881 8971308",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396881,
+        "utm_northing": 8971308,
+        "utm_hemisphere": "S",
+        "data": "06/07/2026",
+        "horario": "13:18",
+        "legenda": "Execução da tradagem central na Quadra 02, com peneiramento do sedimento escavado",
+        "hash_md5": null,
+        "hash_sha256": "f0444536d108416ab4a5e24d255aa651c4a93c196bae45a36956207d31a30c89",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93893805555555,
+          -9.304845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260706_132026.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260706_132026",
+        "arquivo": "TimePhoto_20260706_132026.jpg",
+        "caminho": "IMGS/TimePhoto_20260706_132026.jpg",
+        "lat": -9.304833055555557,
+        "lon": -39.93895972222222,
+        "latlon": "-9.304833, -39.938960",
+        "utm": "24L 396879 8971309",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396879,
+        "utm_northing": 8971309,
+        "utm_hemisphere": "S",
+        "data": "06/07/2026",
+        "horario": "13:20",
+        "legenda": "Tradagem central da Quadra 02, com controle de profundidade e sedimento peneirado 22 cm",
+        "hash_md5": null,
+        "hash_sha256": "25ec3c792c47afc492b87c8d55a9e5d39a41040781f23edbb1e08733816078dd",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93895972222222,
+          -9.304833055555557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260706_132345.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260706_132345",
+        "arquivo": "TimePhoto_20260706_132345.jpg",
+        "caminho": "IMGS/TimePhoto_20260706_132345.jpg",
+        "lat": -9.304843333333334,
+        "lon": -39.93895638888888,
+        "latlon": "-9.304843, -39.938956",
+        "utm": "24L 396879 8971308",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396879,
+        "utm_northing": 8971308,
+        "utm_hemisphere": "S",
+        "data": "06/07/2026",
+        "horario": "13:23",
+        "legenda": "Tradagem Noroeste da Quadra 02 e peneiramento do sedimento escavado 29 cm",
+        "hash_md5": null,
+        "hash_sha256": "3b9f6d0df1580134f943af1ad094760630c7788863e2cc95ea3f95328897ba4c",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93895638888888,
+          -9.304843333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260706_134559.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260706_134559",
+        "arquivo": "TimePhoto_20260706_134559.jpg",
+        "caminho": "IMGS/TimePhoto_20260706_134559.jpg",
+        "lat": -9.304894722222222,
+        "lon": -39.93912333333333,
+        "latlon": "-9.304895, -39.939123",
+        "utm": "24L 396861 8971303",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396861,
+        "utm_northing": 8971303,
+        "utm_hemisphere": "S",
+        "data": "06/07/2026",
+        "horario": "13:45",
+        "legenda": "Limpeza superficial controlada da Trincheira 02 antes do início das decapagens",
+        "hash_md5": null,
+        "hash_sha256": "4b2393429c4bca5c47d3a4f279ceaf89d180ca21a94dae6b79c85799f88e41d5",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93912333333333,
+          -9.304894722222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260706_134858.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260706_134858",
+        "arquivo": "TimePhoto_20260706_134858.jpg",
+        "caminho": "IMGS/TimePhoto_20260706_134858.jpg",
+        "lat": -9.304899722222222,
+        "lon": -39.93912333333333,
+        "latlon": "-9.304900, -39.939123",
+        "utm": "24L 396861 8971302",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396861,
+        "utm_northing": 8971302,
+        "utm_hemisphere": "S",
+        "data": "06/07/2026",
+        "horario": "13:48",
+        "legenda": "Vista superior da superfície da Trincheira 02 após limpeza superficial controlada",
+        "hash_md5": null,
+        "hash_sha256": "c5cb0d20ee09f56dd849fe943bbc885453e3424b2518c83d365e751dc491c3bc",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93912333333333,
+          -9.304899722222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260706_140959.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260706_140959",
+        "arquivo": "TimePhoto_20260706_140959.jpg",
+        "caminho": "IMGS/TimePhoto_20260706_140959.jpg",
+        "lat": -9.304918333333333,
+        "lon": -39.939085,
+        "latlon": "-9.304918, -39.939085",
+        "utm": "24L 396865 8971300",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396865,
+        "utm_northing": 8971300,
+        "utm_hemisphere": "S",
+        "data": "06/07/2026",
+        "horario": "14:09",
+        "legenda": "Vista final da Trincheira 02 após a primeira decapagem 10 cm",
+        "hash_md5": null,
+        "hash_sha256": "fb304f8dc62e8feab6b0ef37c15b1e5856efc7dae86d6dde9eb09f0205090ed5",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.939085,
+          -9.304918333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260706_142222.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260706_142222",
+        "arquivo": "TimePhoto_20260706_142222.jpg",
+        "caminho": "IMGS/TimePhoto_20260706_142222.jpg",
+        "lat": -9.304924722222223,
+        "lon": -39.939096666666664,
+        "latlon": "-9.304925, -39.939097",
+        "utm": "24L 396864 8971299",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396864,
+        "utm_northing": 8971299,
+        "utm_hemisphere": "S",
+        "data": "06/07/2026",
+        "horario": "14:22",
+        "legenda": "Vista final da Trincheira 02 após a segunda decapagem 20 cm",
+        "hash_md5": null,
+        "hash_sha256": "701d4c581b5d431be0a9a641c1e2035aa28ac24390bd14b96e4d7b54c1aa2f13",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.939096666666664,
+          -9.304924722222223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260706_145349.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260706_145349",
+        "arquivo": "TimePhoto_20260706_145349.jpg",
+        "caminho": "IMGS/TimePhoto_20260706_145349.jpg",
+        "lat": -9.30491638888889,
+        "lon": -39.939096666666664,
+        "latlon": "-9.304916, -39.939097",
+        "utm": "24L 396864 8971300",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396864,
+        "utm_northing": 8971300,
+        "utm_hemisphere": "S",
+        "data": "06/07/2026",
+        "horario": "14:53",
+        "legenda": "Peneiramento do sedimento proveniente da terceira decapagem da Trincheira 02",
+        "hash_md5": null,
+        "hash_sha256": "8a9d296742a39d38c8c7f0cabe39029465043c3a0e3b9be86827982965cdb31f",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.939096666666664,
+          -9.30491638888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260706_145616.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260706_145616",
+        "arquivo": "TimePhoto_20260706_145616.jpg",
+        "caminho": "IMGS/TimePhoto_20260706_145616.jpg",
+        "lat": -9.304913333333333,
+        "lon": -39.939101666666666,
+        "latlon": "-9.304913, -39.939102",
+        "utm": "24L 396863 8971301",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396863,
+        "utm_northing": 8971301,
+        "utm_hemisphere": "S",
+        "data": "06/07/2026",
+        "horario": "14:56",
+        "legenda": "Vista final da Trincheira 02 após a terceira decapagem 24 cm",
+        "hash_md5": null,
+        "hash_sha256": "fa424998c069458efe51e700f63945eb4a164d11eba1383baa601499a9ae1a39",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.939101666666666,
+          -9.304913333333333
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MR9T9U3L",
+    "dataCampo": "2026-07-06",
+    "horaIni": "08:35",
+    "horaFim": "15:40",
+    "atividade": "Delimitação de sítio arqueológico",
+    "categoria": "ADA",
+    "projeto": "Empreendimento Minéro-Industrial N8N9 - Juazeiro - BA",
+    "localidade": "Juazeiro - BA",
+    "empresaExecutora": "HAS CONSULTORIA",
+    "fichaNumero": "013",
+    "coordenadasTexto": null,
+    "coordCampo": "Carlos Rocha",
+    "arqResp": "Carlos Rocha",
+    "cargoResponsavel": "Arqueólogo",
+    "trecho": "Cava N8",
+    "tipoIntervencao": "Sondagem",
+    "tipoIntervencaoOutro": "Tradagens e raspagens",
+    "tipoAcao": "NA",
+    "clima": "Ensolarado",
+    "climaOutro": null,
+    "vegetacao": null,
+    "relevo": null,
+    "solo": "Silto-arenoso",
+    "granulometria": "Média",
+    "vestigios": "NAO",
+    "tipoEvidencia": null,
+    "materiaisEncontrados": "NAO",
+    "tipoMaterial": null,
+    "tipoMaterialOutro": null,
+    "coleta": null,
+    "amostrasAnalise": null,
+    "fotografias": null,
+    "croquis": null,
+    "houveAlteracaoContexto": null,
+    "medidasAdotadas": null,
+    "interrupcaoAtividade": null,
+    "motivoInterrupcao": null,
+    "observacoesRecomendacoes": null,
+    "observacoesExtras": null,
+    "desc": "Na continuidade das atividades no POP-U, a estratégia de investigação combinou controle de superfície e verificação em subsuperfície, com a implantação de quadras de raspagem, trincheiras e tradagens em setores selecionados não só pela presença imediata de vestígios visíveis, mas por apresentarem características ambientais e sedimentares semelhantes às áreas onde os materiais arqueológicos haviam sido registrados em superfície. Essa escolha buscou evitar a alteração direta de concentrações superficiais ainda em avaliação, ao mesmo tempo em que permitiu testar áreas comparáveis quanto à cobertura vegetal, cascalheiras, presença de quartzo, relevo, textura do sedimento e condições de visibilidade, ampliando a base de comparação entre setores positivos e setores aparentemente negativos.\nAs intervenções foram conduzidas por meio de limpeza superficial controlada, decapagens sucessivas, tradagens complementares, peneiramento do sedimento e registro das unidades abertas, com atenção à coloração, textura, compactação, profundidade alcançada, raízes, grânulos, cascalhos e eventual presença de materiais arqueológicos em superfície ou inumados. Assim, a amostragem não teve apenas a finalidade de localizar novos vestígios, mas de produzir parâmetros sedimentares e estratigráficos capazes de subsidiar a leitura técnica da POP-U, especialmente quanto à continuidade vertical, distribuição horizontal, densidade dos materiais e diferenciação entre áreas com evidência arqueológica em superfície e áreas semelhantes sem ocorrência visível.",
+    "obs": null,
+    "modeloDocx": "TRADAGENS",
+    "status": "DRAFT",
+    "imagens_sem_gps": []
+  }
+}
