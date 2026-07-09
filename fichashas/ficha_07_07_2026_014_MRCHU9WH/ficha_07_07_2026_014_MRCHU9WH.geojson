@@ -1,0 +1,1534 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_084853.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_084853",
+        "arquivo": "TimePhoto_20260707_084853.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_084853.jpg",
+        "lat": -9.304379722222222,
+        "lon": -39.93937305555555,
+        "latlon": "-9.304380, -39.939373",
+        "utm": "24L 396833 8971359",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396833,
+        "utm_northing": 8971359,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "08:48",
+        "legenda": "Vista geral do local de implantação da quadra de raspagem 03",
+        "hash_md5": null,
+        "hash_sha256": "8f6ad5b9a9fd9e2326f36630ef942682001a389917d61a9cd5987523c0fbc11a",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93937305555555,
+          -9.304379722222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_085716.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_085716",
+        "arquivo": "TimePhoto_20260707_085716.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_085716.jpg",
+        "lat": -9.304343055555556,
+        "lon": -39.939296666666664,
+        "latlon": "-9.304343, -39.939297",
+        "utm": "24L 396841 8971364",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396841,
+        "utm_northing": 8971364,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "08:57",
+        "legenda": "Delimitação da quadra de raspagem 03 3x3m",
+        "hash_md5": null,
+        "hash_sha256": "c630b301e54a40e3a1515dd5a178ede832aeb5bd0df935a42c4c559ae85b772e",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.939296666666664,
+          -9.304343055555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_085815.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_085815",
+        "arquivo": "TimePhoto_20260707_085815.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_085815.jpg",
+        "lat": -9.304358055555555,
+        "lon": -39.939323055555555,
+        "latlon": "-9.304358, -39.939323",
+        "utm": "24L 396839 8971362",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396839,
+        "utm_northing": 8971362,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "08:58",
+        "legenda": "Registro da limpeza superficial controlada na quadra de raspagem 03",
+        "hash_md5": null,
+        "hash_sha256": "8993175a04dff4ecbd3a08be1fd8b5cdacc999793e619e56c45124f2c83823ba",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.939323055555555,
+          -9.304358055555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_090729.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_090729",
+        "arquivo": "TimePhoto_20260707_090729.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_090729.jpg",
+        "lat": -9.304379722222222,
+        "lon": -39.93937305555555,
+        "latlon": "-9.304380, -39.939373",
+        "utm": "24L 396833 8971359",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396833,
+        "utm_northing": 8971359,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "09:07",
+        "legenda": "Vistoria na quadra de raspagem 03 após limpeza de superfície controlada",
+        "hash_md5": null,
+        "hash_sha256": "75bd5c0eadc9b42b7bf2a893520a3d16e0d995e73733e5a7903aeea5b8a93d9f",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93937305555555,
+          -9.304379722222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_090925.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_090925",
+        "arquivo": "TimePhoto_20260707_090925.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_090925.jpg",
+        "lat": -9.304325,
+        "lon": -39.93935305555555,
+        "latlon": "-9.304325, -39.939353",
+        "utm": "24L 396835 8971365",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396835,
+        "utm_northing": 8971365,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "09:09",
+        "legenda": "Limpeza controlada da superfície da quadra de raspagem 03 finalizada",
+        "hash_md5": null,
+        "hash_sha256": "88858b4c865758fb217ffdae6adaffcff84633ca10d217278bd8739635e8492e",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93935305555555,
+          -9.304325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_091832.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_091832",
+        "arquivo": "TimePhoto_20260707_091832.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_091832.jpg",
+        "lat": -9.304366388888889,
+        "lon": -39.939346388888886,
+        "latlon": "-9.304366, -39.939346",
+        "utm": "24L 396836 8971361",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396836,
+        "utm_northing": 8971361,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "09:18",
+        "legenda": "Vista da superfície da sondagem TR-03 1x1m ",
+        "hash_md5": null,
+        "hash_sha256": "3f2ea1a4afe6063b0703cf8d5241e2c2a8228a89bf0eace610efefd0ad6c2d01",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.939346388888886,
+          -9.304366388888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_092244.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_092244",
+        "arquivo": "TimePhoto_20260707_092244.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_092244.jpg",
+        "lat": -9.30439638888889,
+        "lon": -39.939346388888886,
+        "latlon": "-9.304396, -39.939346",
+        "utm": "24L 396836 8971358",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396836,
+        "utm_northing": 8971358,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "09:22",
+        "legenda": "Peneiramento do sedimento proveniente da primeira camada da sondagem TR-03 1x1m",
+        "hash_md5": null,
+        "hash_sha256": "7925c6cb07c535ae7e75687f4387a31ddf75e38087def850cb25584466a82393",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.939346388888886,
+          -9.30439638888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_093745.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_093745",
+        "arquivo": "TimePhoto_20260707_093745.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_093745.jpg",
+        "lat": -9.304368333333334,
+        "lon": -39.93933472222222,
+        "latlon": "-9.304368, -39.939335",
+        "utm": "24L 396837 8971361",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396837,
+        "utm_northing": 8971361,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "09:37",
+        "legenda": "Vista final da primeira decapagem da sondagem TR-03 1x1m 10 cm",
+        "hash_md5": null,
+        "hash_sha256": "c92795bab061a460b51b7b0dd601b08613c804e4b2b9a7c6eea2c69f6f8a723f",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93933472222222,
+          -9.304368333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_094613.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_094613",
+        "arquivo": "TimePhoto_20260707_094613.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_094613.jpg",
+        "lat": -9.304349722222224,
+        "lon": -39.93933666666666,
+        "latlon": "-9.304350, -39.939337",
+        "utm": "24L 396837 8971363",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396837,
+        "utm_northing": 8971363,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "09:46",
+        "legenda": "Vista final da segunda decapagem da sondagem TR-03 1x1m 20 cm",
+        "hash_md5": null,
+        "hash_sha256": "827fa285e1da7c38e8d3ce78088cfd95ab09e5f2c5e676070e6d0bd216354395",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93933666666666,
+          -9.304349722222224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_095016.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_095016",
+        "arquivo": "TimePhoto_20260707_095016.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_095016.jpg",
+        "lat": -9.304398333333333,
+        "lon": -39.939355,
+        "latlon": "-9.304398, -39.939355",
+        "utm": "24L 396835 8971357",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396835,
+        "utm_northing": 8971357,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "09:50",
+        "legenda": "Peneiramento do sedimento proveniente da terceira camada da sondagem TR-03 1x1m",
+        "hash_md5": null,
+        "hash_sha256": "f99da753992383782a9f524e83e2011fbfb0b9883067acf853f383f8ad17a0f1",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.939355,
+          -9.304398333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_100329.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_100329",
+        "arquivo": "TimePhoto_20260707_100329.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_100329.jpg",
+        "lat": -9.304363055555557,
+        "lon": -39.93933138888889,
+        "latlon": "-9.304363, -39.939331",
+        "utm": "24L 396838 8971361",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396838,
+        "utm_northing": 8971361,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "10:03",
+        "legenda": "Vista final da terceira decapagem da sondagem TR-03 1x1m 22 cm",
+        "hash_md5": null,
+        "hash_sha256": "e5a236d1703d5cadb199b80a176ec7b3c66d4dd5b8a8136fbd1366129ea51b19",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93933138888889,
+          -9.304363055555557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_100454.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_100454",
+        "arquivo": "TimePhoto_20260707_100454.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_100454.jpg",
+        "lat": -9.304376666666668,
+        "lon": -39.939355,
+        "latlon": "-9.304377, -39.939355",
+        "utm": "24L 396835 8971360",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396835,
+        "utm_northing": 8971360,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "10:04",
+        "legenda": "Sedimentos provenientes das três decapagens da sondagem TR-03 1x1m",
+        "hash_md5": null,
+        "hash_sha256": "9b1f0bb29922406358a282493c9064486165f03fdc61234b14b5051f3d57f127",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.939355,
+          -9.304376666666668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_102214.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_102214",
+        "arquivo": "TimePhoto_20260707_102214.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_102214.jpg",
+        "lat": -9.304378055555556,
+        "lon": -39.939319722222216,
+        "latlon": "-9.304378, -39.939320",
+        "utm": "24L 396839 8971360",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396839,
+        "utm_northing": 8971360,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "10:22",
+        "legenda": "Execução da tradagem central da Quadra 03, com peneiramento do sedimento escavado 23 cm",
+        "hash_md5": null,
+        "hash_sha256": "d3b03da131cf5e0c4675c979977445a85ea1bfef4ee23f7e4d2a73099399a316",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.939319722222216,
+          -9.304378055555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_102512.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_102512",
+        "arquivo": "TimePhoto_20260707_102512.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_102512.jpg",
+        "lat": -9.30436,
+        "lon": -39.93933333333333,
+        "latlon": "-9.304360, -39.939333",
+        "utm": "24L 396837 8971362",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396837,
+        "utm_northing": 8971362,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "10:25",
+        "legenda": "Execução da tradagem Norte da Quadra 03, com peneiramento do sedimento escavado 23 cm",
+        "hash_md5": null,
+        "hash_sha256": "eb7ebd721d7600e303d2bf861b50165d3024ddce1564c057207564787e9c106d",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93933333333333,
+          -9.30436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_102658.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_102658",
+        "arquivo": "TimePhoto_20260707_102658.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_102658.jpg",
+        "lat": -9.304375,
+        "lon": -39.939355,
+        "latlon": "-9.304375, -39.939355",
+        "utm": "24L 396835 8971360",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396835,
+        "utm_northing": 8971360,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "10:26",
+        "legenda": "Vista geral das intervenções na quadra de raspagem 03 finalizada",
+        "hash_md5": null,
+        "hash_sha256": "4b0073eb277087b650082e8af55bdb9701eee80853bb9520615bc55371683e66",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.939355,
+          -9.304375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_103717.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_103717",
+        "arquivo": "TimePhoto_20260707_103717.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_103717.jpg",
+        "lat": -9.304363055555557,
+        "lon": -39.93913972222222,
+        "latlon": "-9.304363, -39.939140",
+        "utm": "24L 396859 8971361",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396859,
+        "utm_northing": 8971361,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "10:37",
+        "legenda": "Delimitação da quadra de raspagem 04 3x3m",
+        "hash_md5": null,
+        "hash_sha256": "a27ea5d895b2adf122f1ece44a19981137769824d8c9df6bd917dfee4728a62d",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93913972222222,
+          -9.304363055555557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_104024.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_104024",
+        "arquivo": "TimePhoto_20260707_104024.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_104024.jpg",
+        "lat": -9.304394722222224,
+        "lon": -39.93915,
+        "latlon": "-9.304395, -39.939150",
+        "utm": "24L 396858 8971358",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396858,
+        "utm_northing": 8971358,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "10:40",
+        "legenda": "Limpeza de superfície na quadra de raspagem 04 3x3m",
+        "hash_md5": null,
+        "hash_sha256": "5de0867637bd692a35c6c8c0119018431464eaca40ec0824379c2e975f12520d",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93915,
+          -9.304394722222224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_104708.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_104708",
+        "arquivo": "TimePhoto_20260707_104708.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_104708.jpg",
+        "lat": -9.30434,
+        "lon": -39.939099999999996,
+        "latlon": "-9.304340, -39.939100",
+        "utm": "24L 396863 8971364",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396863,
+        "utm_northing": 8971364,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "10:47",
+        "legenda": "Vistoria na quadra de raspagem 04 após limpeza de superfície controlada",
+        "hash_md5": null,
+        "hash_sha256": "52d0bbcc5fc6c2fc30ef7d17993899c6c9af063584221375c7d4f8e9e43ea1a2",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.939099999999996,
+          -9.30434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_104924.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_104924",
+        "arquivo": "TimePhoto_20260707_104924.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_104924.jpg",
+        "lat": -9.304346666666667,
+        "lon": -39.93911305555555,
+        "latlon": "-9.304347, -39.939113",
+        "utm": "24L 396862 8971363",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396862,
+        "utm_northing": 8971363,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "10:49",
+        "legenda": "Limpeza controlada da superfície da quadra de raspagem 04 finalizada\n",
+        "hash_md5": null,
+        "hash_sha256": "c1a3151fee98b407ce687c067f0b31fb859ec68cf40e352eb4cecf75dc1ade8b",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93911305555555,
+          -9.304346666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_105907.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_105907",
+        "arquivo": "TimePhoto_20260707_105907.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_105907.jpg",
+        "lat": -9.304388055555556,
+        "lon": -39.93909,
+        "latlon": "-9.304388, -39.939090",
+        "utm": "24L 396864 8971359",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396864,
+        "utm_northing": 8971359,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "10:59",
+        "legenda": "Vista da superfície da sondagem UE-01 implantada no setor nordeste da Quadra 04 ",
+        "hash_md5": null,
+        "hash_sha256": "a794417816b94c3b23e52d4b3f945b9d9d39db8cab2ff73e2c1346105ccaab5e",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93909,
+          -9.304388055555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_110253.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_110253",
+        "arquivo": "TimePhoto_20260707_110253.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_110253.jpg",
+        "lat": -9.304338333333334,
+        "lon": -39.93909472222222,
+        "latlon": "-9.304338, -39.939095",
+        "utm": "24L 396864 8971364",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396864,
+        "utm_northing": 8971364,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "11:02",
+        "legenda": "Peneiramento do sedimento proveniente da primeira decapagem da sondagem UE-01",
+        "hash_md5": null,
+        "hash_sha256": "4c08cd851e43fbb1df385f613b59bab6a81ed40d3d48d1c60f8edfdd5b3110ea",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93909472222222,
+          -9.304338333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_131718.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_131718",
+        "arquivo": "TimePhoto_20260707_131718.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_131718.jpg",
+        "lat": -9.304388055555556,
+        "lon": -39.939099999999996,
+        "latlon": "-9.304388, -39.939100",
+        "utm": "24L 396863 8971359",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396863,
+        "utm_northing": 8971359,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "13:17",
+        "legenda": "Vista final da superfície da sondagem 01 após a primeira decapagem 10 cm",
+        "hash_md5": null,
+        "hash_sha256": "6d0f24bf960fcacae9a4025b44856add40bf3bf343628efac3547fd59d591638",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.939099999999996,
+          -9.304388055555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_132942.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_132942",
+        "arquivo": "TimePhoto_20260707_132942.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_132942.jpg",
+        "lat": -9.304391666666668,
+        "lon": -39.939114999999994,
+        "latlon": "-9.304392, -39.939115",
+        "utm": "24L 396861 8971358",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396861,
+        "utm_northing": 8971358,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "13:29",
+        "legenda": "Vista final da superfície da sondagem 01 após a segunda decapagem 20 cm",
+        "hash_md5": null,
+        "hash_sha256": "4c3e5256affca895c3a7097f01d47f6bcb6a4242b9c17a66b5e16e0d808f2142",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.939114999999994,
+          -9.304391666666668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_133312.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_133312",
+        "arquivo": "TimePhoto_20260707_133312.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_133312.jpg",
+        "lat": -9.304368333333334,
+        "lon": -39.939114999999994,
+        "latlon": "-9.304368, -39.939115",
+        "utm": "24L 396861 8971361",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396861,
+        "utm_northing": 8971361,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "13:33",
+        "legenda": "Peneiramento do sedimento proveniente da terceira decapagem da sondagem UE-01",
+        "hash_md5": null,
+        "hash_sha256": "521de799a11c8f673bfdeb9a8d44175722589b6eeda278cff00904a89dfa069b",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.939114999999994,
+          -9.304368333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_134443.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_134443",
+        "arquivo": "TimePhoto_20260707_134443.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_134443.jpg",
+        "lat": -9.304379722222222,
+        "lon": -39.93910638888889,
+        "latlon": "-9.304380, -39.939106",
+        "utm": "24L 396862 8971360",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396862,
+        "utm_northing": 8971360,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "13:44",
+        "legenda": "Vista final da superfície da sondagem 01 após a segunda decapagem 22 cm",
+        "hash_md5": null,
+        "hash_sha256": "4499ad07730dc367969017ef3aa6fbf9e4f239bd2637133cb94477c3cdb7c833",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93910638888889,
+          -9.304379722222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_134611.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_134611",
+        "arquivo": "TimePhoto_20260707_134611.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_134611.jpg",
+        "lat": -9.304379722222222,
+        "lon": -39.939105,
+        "latlon": "-9.304380, -39.939105",
+        "utm": "24L 396863 8971360",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396863,
+        "utm_northing": 8971360,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "13:46",
+        "legenda": "Sedimentos provenientes das três decapagens da sondagem UE-01",
+        "hash_md5": null,
+        "hash_sha256": "386d62583448e08ab3df0d390943e866507033d0d5f6fb9c3dc0016e6308acb8",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.939105,
+          -9.304379722222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_134732.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_134732",
+        "arquivo": "TimePhoto_20260707_134732.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_134732.jpg",
+        "lat": -9.304398333333333,
+        "lon": -39.939121388888886,
+        "latlon": "-9.304398, -39.939121",
+        "utm": "24L 396861 8971357",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396861,
+        "utm_northing": 8971357,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "13:47",
+        "legenda": "Tradagem central da Quadra 04, com controle de profundidade e sedimento peneirado 22 cm",
+        "hash_md5": null,
+        "hash_sha256": "b217108e3ee9911258f4fc9e45a6a830aecb2a1d59cf8fab3b3cc2d2290309ea",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.939121388888886,
+          -9.304398333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_135116.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_135116",
+        "arquivo": "TimePhoto_20260707_135116.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_135116.jpg",
+        "lat": -9.304415,
+        "lon": -39.93913,
+        "latlon": "-9.304415, -39.939130",
+        "utm": "24L 396860 8971356",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396860,
+        "utm_northing": 8971356,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "13:51",
+        "legenda": "Tradagem Sudoeste da Quadra 04, com controle de profundidade e sedimento peneirado 23 cm",
+        "hash_md5": null,
+        "hash_sha256": "60460523223a19f6789797a9abeac123a0346f14438e9ff20804bb8b29bb69ab",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93913,
+          -9.304415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_141303.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_141303",
+        "arquivo": "TimePhoto_20260707_141303.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_141303.jpg",
+        "lat": -9.304851666666668,
+        "lon": -39.93834333333333,
+        "latlon": "-9.304852, -39.938343",
+        "utm": "24L 396946 8971308",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396946,
+        "utm_northing": 8971308,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "14:13",
+        "legenda": "Vista geral do local de implantação da quadra de raspagem 05",
+        "hash_md5": null,
+        "hash_sha256": "607cd426fa4cb5a20ff1a194dcbbeccf2f18ff514f0c66717fa8fb830391a837",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93834333333333,
+          -9.304851666666668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_142436.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_142436",
+        "arquivo": "TimePhoto_20260707_142436.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_142436.jpg",
+        "lat": -9.30486138888889,
+        "lon": -39.93843333333333,
+        "latlon": "-9.304861, -39.938433",
+        "utm": "24L 396936 8971306",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396936,
+        "utm_northing": 8971306,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "14:24",
+        "legenda": "Delimitação da quadra de raspagem 05",
+        "hash_md5": null,
+        "hash_sha256": "cf9b3b4a667dc64483957d8a27dc89d5f0defe2feaa2224b588dd5fb3c4d03ca",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93843333333333,
+          -9.30486138888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_142607.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_142607",
+        "arquivo": "TimePhoto_20260707_142607.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_142607.jpg",
+        "lat": -9.30484638888889,
+        "lon": -39.938444999999994,
+        "latlon": "-9.304846, -39.938445",
+        "utm": "24L 396935 8971308",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396935,
+        "utm_northing": 8971308,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "14:26",
+        "legenda": "Vistoria preliminar da Quadra 05 antes da limpeza superficial controlada",
+        "hash_md5": null,
+        "hash_sha256": "3f200147df96f81b47b21cd755e50417a68143cc3c2faaaf314b5a572c363a3c",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.938444999999994,
+          -9.30484638888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_142727.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_142727",
+        "arquivo": "TimePhoto_20260707_142727.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_142727.jpg",
+        "lat": -9.30485,
+        "lon": -39.938446388888885,
+        "latlon": "-9.304850, -39.938446",
+        "utm": "24L 396935 8971308",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396935,
+        "utm_northing": 8971308,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "14:27",
+        "legenda": "Registro da limpeza superficial controlada na quadra de raspagem 05",
+        "hash_md5": null,
+        "hash_sha256": "2a88416e606c4c141bd0f6916a6f81a4d46d0846c6ee0bcb05c754fcb6dca506",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.938446388888885,
+          -9.30485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_143543.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_143543",
+        "arquivo": "TimePhoto_20260707_143543.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_143543.jpg",
+        "lat": -9.304858333333334,
+        "lon": -39.93841972222222,
+        "latlon": "-9.304858, -39.938420",
+        "utm": "24L 396938 8971307",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396938,
+        "utm_northing": 8971307,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "14:35",
+        "legenda": "Vistoria na quadra de raspagem 05 após limpeza de superfície controlada",
+        "hash_md5": null,
+        "hash_sha256": "9a3313b5fa22ce9013b4722561811840b0a9465f6d35e634583df377ee6648d4",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93841972222222,
+          -9.304858333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_144432.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_144432",
+        "arquivo": "TimePhoto_20260707_144432.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_144432.jpg",
+        "lat": -9.304869722222223,
+        "lon": -39.93837138888888,
+        "latlon": "-9.304870, -39.938371",
+        "utm": "24L 396943 8971306",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396943,
+        "utm_northing": 8971306,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "14:44",
+        "legenda": "Vista da superfície da sondagem UE-01 implantada no setor Nordeste da Quadra 05",
+        "hash_md5": null,
+        "hash_sha256": "8632aa82735d33a1b77519dde06a3988de7e734118ffc096dfe43220c09ced9f",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93837138888888,
+          -9.304869722222223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_145906.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_145906",
+        "arquivo": "TimePhoto_20260707_145906.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_145906.jpg",
+        "lat": -9.304868333333333,
+        "lon": -39.93836333333333,
+        "latlon": "-9.304868, -39.938363",
+        "utm": "24L 396944 8971306",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396944,
+        "utm_northing": 8971306,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "14:59",
+        "legenda": "Vista final da superfície da Sondagem de 1 x 1 m implantada no setor nordeste da Quadra 05, após a primeira decapagem 10 cm",
+        "hash_md5": null,
+        "hash_sha256": "d6866b01ab487390bdddab14a59d09fd4cc85f00a536e629f9c8f916f3c9e915",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93836333333333,
+          -9.304868333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_151058.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_151058",
+        "arquivo": "TimePhoto_20260707_151058.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_151058.jpg",
+        "lat": -9.304860000000001,
+        "lon": -39.93836333333333,
+        "latlon": "-9.304860, -39.938363",
+        "utm": "24L 396944 8971307",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396944,
+        "utm_northing": 8971307,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "15:10",
+        "legenda": "Vista final da superfície da Sondagem de 1 x 1 m implantada no setor nordeste da Quadra 05, após a primeira decapagem 20 cm",
+        "hash_md5": null,
+        "hash_sha256": "01ea4407fc22250c62a1ecc23c4953b3f5fa638e7e20bcaf255b65f26236561a",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93836333333333,
+          -9.304860000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_153142.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_153142",
+        "arquivo": "TimePhoto_20260707_153142.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_153142.jpg",
+        "lat": -9.30486138888889,
+        "lon": -39.93836666666666,
+        "latlon": "-9.304861, -39.938367",
+        "utm": "24L 396944 8971306",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396944,
+        "utm_northing": 8971306,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "15:31",
+        "legenda": "Vista final da superfície da Sondagem de 1 x 1 m implantada no setor nordeste da Quadra 05, após a primeira decapagem 23 cm",
+        "hash_md5": null,
+        "hash_sha256": "62cabec2d83059b9e97aaf3466462dab3383591ca00bd7adf017a8b8094a7d38",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93836666666666,
+          -9.30486138888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_153619.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_153619",
+        "arquivo": "TimePhoto_20260707_153619.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_153619.jpg",
+        "lat": -9.30486138888889,
+        "lon": -39.93838638888889,
+        "latlon": "-9.304861, -39.938386",
+        "utm": "24L 396942 8971306",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396942,
+        "utm_northing": 8971306,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "15:36",
+        "legenda": "Tradagem Central da Quadra 05, com controle de profundidade e peneiramento do sedimento escavado 23 cm",
+        "hash_md5": null,
+        "hash_sha256": "d17764aa10bdd6c33d0d659ddd5f96c1d05fdc7fbc379df875b60ca2e0d9c395",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93838638888889,
+          -9.30486138888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_153904.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_153904",
+        "arquivo": "TimePhoto_20260707_153904.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_153904.jpg",
+        "lat": -9.30487138888889,
+        "lon": -39.93841305555555,
+        "latlon": "-9.304871, -39.938413",
+        "utm": "24L 396939 8971305",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396939,
+        "utm_northing": 8971305,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "15:39",
+        "legenda": "Tradagem sudoeste da Quadra 05, com controle de profundidade e peneiramento do sedimento escavado 22 cm",
+        "hash_md5": null,
+        "hash_sha256": "04f25f43208ac2c0204a68f44791a7558bfb69840f7a2991d83d1c738ba2917e",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93841305555555,
+          -9.30487138888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_154231.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_154231",
+        "arquivo": "TimePhoto_20260707_154231.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_154231.jpg",
+        "lat": -9.304911666666667,
+        "lon": -39.93835833333333,
+        "latlon": "-9.304912, -39.938358",
+        "utm": "24L 396945 8971301",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396945,
+        "utm_northing": 8971301,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "15:42",
+        "legenda": "Vista geral da Quadra 05 após a finalização das intervenções de delimitação, com área demarcada e unidades de sondagem/tradagem concluídas",
+        "hash_md5": null,
+        "hash_sha256": "253373086358f033c94cb430dda709c6ab3ea84be5df4b6bd3d77572585fac3b",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93835833333333,
+          -9.304911666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260707_154413.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260707_154413",
+        "arquivo": "TimePhoto_20260707_154413.jpg",
+        "caminho": "IMGS/TimePhoto_20260707_154413.jpg",
+        "lat": -9.304875000000001,
+        "lon": -39.93839666666666,
+        "latlon": "-9.304875, -39.938397",
+        "utm": "24L 396940 8971305",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396940,
+        "utm_northing": 8971305,
+        "utm_hemisphere": "S",
+        "data": "07/07/2026",
+        "horario": "15:44",
+        "legenda": "Sedimentos provenientes das três camadas de decapagem da sondagem UE-1x1m na quadra 05",
+        "hash_md5": null,
+        "hash_sha256": "2fbb16ee71115058ccf0ddd861d542604067c733e3ed12d17ef6a5951c991b2a",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93839666666666,
+          -9.304875000000001
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MRCHU9WH",
+    "dataCampo": "2026-07-07",
+    "horaIni": "08:45",
+    "horaFim": "16:32",
+    "atividade": "Delimitação de sítio arqueológico",
+    "categoria": "ADA",
+    "projeto": "Empreendimento Minéro-Industrial N8N9 - Juazeiro - BA",
+    "localidade": "Juazeiro - BA",
+    "empresaExecutora": "HAS CONSULTORIA",
+    "fichaNumero": "014",
+    "coordenadasTexto": null,
+    "coordCampo": "Carlos Rocha",
+    "arqResp": "Carlos Rocha",
+    "cargoResponsavel": "Arqueólogo",
+    "trecho": "Cava N8",
+    "tipoIntervencao": "Sondagem",
+    "tipoIntervencaoOutro": "Tradagens e Raspagens",
+    "tipoAcao": "NA",
+    "clima": "Ensolarado",
+    "climaOutro": null,
+    "vegetacao": null,
+    "relevo": null,
+    "solo": "Silto-arenoso",
+    "granulometria": "Média",
+    "vestigios": "NAO",
+    "tipoEvidencia": null,
+    "materiaisEncontrados": null,
+    "tipoMaterial": null,
+    "tipoMaterialOutro": null,
+    "coleta": null,
+    "amostrasAnalise": null,
+    "fotografias": null,
+    "croquis": null,
+    "houveAlteracaoContexto": null,
+    "medidasAdotadas": null,
+    "interrupcaoAtividade": null,
+    "motivoInterrupcao": null,
+    "observacoesRecomendacoes": null,
+    "observacoesExtras": null,
+    "desc": "Na etapa subsequente de delimitação da POP-U, a investigação foi ampliada para novos setores por meio da implantação de quadras de raspagem, sondagens diagnósticas e tradagens complementares, priorizando áreas sem vestígios arqueológicos visíveis em superfície, mas com características ambientais e sedimentares comparáveis aos pontos onde as ocorrências haviam sido registradas. Essa estratégia buscou ampliar a cobertura amostral da área, testando setores próximos e progressivamente mais afastados das concentrações superficiais, de modo a verificar se a distribuição dos materiais se mantém, rarefaz ou se interrompe em áreas semelhantes quanto à cobertura vegetal, relevo, presença de cascalhos, exposição de solo e composição sedimentar.\nAs intervenções foram conduzidas com limpeza superficial controlada, abertura de sondagens e tradagens, controle de profundidade, peneiramento do sedimento e registro fotográfico das etapas executadas. Em termos gerais, os sedimentos observados mantiveram coloração amarelada, textura predominantemente areno-siltosa, presença de raízes finas, agregados, grânulos e cascalhos dispersos, com aumento gradual da compactação nos níveis finais. Dessa forma, a amostragem buscou produzir parâmetros comparativos entre setores positivos e setores sem evidência superficial, subsidiando a avaliação técnica quanto à continuidade horizontal, eventual continuidade vertical, densidade dos materiais e limites preliminares do contexto arqueológico em processo de delimitação.",
+    "obs": null,
+    "modeloDocx": "TRADAGENS",
+    "status": "DRAFT",
+    "imagens_sem_gps": []
+  }
+}
