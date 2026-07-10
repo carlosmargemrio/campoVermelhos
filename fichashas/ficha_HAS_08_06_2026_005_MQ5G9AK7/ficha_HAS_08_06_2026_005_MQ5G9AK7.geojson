@@ -187,6 +187,42 @@
           -9.303398055555556
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "Original_TimePhoto_20260608_152629.jpg",
+      "properties": {
+        "nome": "Original_TimePhoto_20260608_152629",
+        "arquivo": "Original_TimePhoto_20260608_152629.jpg",
+        "caminho": "IMGS/Original_TimePhoto_20260608_152629.jpg",
+        "lat": -9.304743055555557,
+        "lon": -39.93884166666666,
+        "latlon": "-9.304743, -39.938842",
+        "utm": "24L 396892 8971319",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396892,
+        "utm_northing": 8971319,
+        "utm_hemisphere": "S",
+        "data": "08/06/2026",
+        "horario": "15:26",
+        "legenda": "Recipiente cerâmico",
+        "hash_md5": null,
+        "hash_sha256": "49caca0166e5a01337a87ec4965567e38fcf3ccd7e41a89a978243d68594bfb4",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93884166666666,
+          -9.304743055555557
+        ]
+      }
     }
   ],
   "ficha": {
@@ -233,20 +269,6 @@
     "obs": null,
     "modeloDocx": "HAS_ACOMPANHAMENTO",
     "status": "COMPLETED",
-    "imagens_sem_gps": [
-      {
-        "nome": "TimePhoto_20260608_152629",
-        "arquivo": "TimePhoto_20260608_152629.jpg",
-        "caminho": "IMGS/TimePhoto_20260608_152629.jpg",
-        "data": "08/06/2026",
-        "horario": "15:26",
-        "legenda": "Recipiente cerâmico ",
-        "hash_sha256": "8218bd01f12dfc8ac7143ca47cd6fcc950323451d515d9d1caf513261c6df415",
-        "origem_coordenadas": "SEM_GPS",
-        "exif_js_status": "GPS_NAO_ENCONTRADO_JS",
-        "exif_native_status": "GPS_NAO_ENCONTRADO_NO_EXIF_NATIVO",
-        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL"
-      }
-    ]
+    "imagens_sem_gps": []
   }
 }
