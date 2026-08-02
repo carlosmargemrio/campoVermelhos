@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "IMG_20260310_065300.jpg",
+      "properties": {
+        "nome": "IMG_20260310_065300",
+        "arquivo": "IMG_20260310_065300.jpg",
+        "caminho": "IMGS/IMG_20260310_065300.jpg",
+        "lat": -9.412472222222222,
+        "lon": -40.510394444444444,
+        "latlon": "-9.412472, -40.510394",
+        "utm": "24L 334161 8959188",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 334161,
+        "utm_northing": 8959188,
+        "utm_hemisphere": "S",
+        "data": "10/03/2026",
+        "horario": "06:53",
+        "legenda": "Hgh",
+        "hash_md5": null,
+        "hash_sha256": "5ae8fea8f53680adc1b667f0e922aa27a605096da428ba34d277f76f5d859d12",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.510394444444444,
+          -9.412472222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "IMG_20260311_193728.jpg",
+      "properties": {
+        "nome": "IMG_20260311_193728",
+        "arquivo": "IMG_20260311_193728.jpg",
+        "caminho": "IMGS/IMG_20260311_193728.jpg",
+        "lat": -9.445791666666667,
+        "lon": -40.5265,
+        "latlon": "-9.445792, -40.526500",
+        "utm": "24L 332408 8955495",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 332408,
+        "utm_northing": 8955495,
+        "utm_hemisphere": "S",
+        "data": "11/03/2026",
+        "horario": "19:34",
+        "legenda": "Hchh",
+        "hash_md5": null,
+        "hash_sha256": "ec80d94f4a2d9509dd150d084b75aa73e3a494620234e54e0bfc7267e43dc258",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.5265,
+          -9.445791666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "IMG_20260314_103344.jpg",
+      "properties": {
+        "nome": "IMG_20260314_103344",
+        "arquivo": "IMG_20260314_103344.jpg",
+        "caminho": "IMGS/IMG_20260314_103344.jpg",
+        "lat": -9.414680555555556,
+        "lon": -40.50391944444444,
+        "latlon": "-9.414681, -40.503919",
+        "utm": "24L 334873 8958947",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 334873,
+        "utm_northing": 8958947,
+        "utm_hemisphere": "S",
+        "data": "14/03/2026",
+        "horario": "10:33",
+        "legenda": "Hhbb",
+        "hash_md5": null,
+        "hash_sha256": "6fb5ed571cc2050a33cd31dcdafaa5839a8691b04b6c1c88eef85af651942e2f",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.50391944444444,
+          -9.414680555555556
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MSBTILK2",
+    "dataCampo": "2026-08-02",
+    "horaIni": "10:10",
+    "horaFim": "12:24",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Hvbbv",
+    "coordCampo": "Bvj",
+    "arqResp": "Hgh",
+    "tipoAcao": "Hgh",
+    "clima": "chuva",
+    "vegetacao": "Bvjh",
+    "relevo": "Hghh",
+    "solo": "Hgjj",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Yfhg",
+    "obs": "Hvh",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "DRAFT",
+    "imagens_sem_gps": [
+      {
+        "nome": "IMG_20260311_170056",
+        "arquivo": "IMG_20260311_170056.jpg",
+        "caminho": "IMGS/IMG_20260311_170056.jpg",
+        "data": "11/03/2026",
+        "horario": "17:00",
+        "legenda": "Hghj",
+        "hash_sha256": "c8885b40c7e2c8a0a5d42900b41442edf67f6a30dcf5e61b30e1243ae2072e4f",
+        "origem_coordenadas": "SEM_GPS",
+        "exif_js_status": "GPS_NAO_ENCONTRADO_JS",
+        "exif_native_status": "GPS_NAO_ENCONTRADO_NO_EXIF_NATIVO",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null
+      }
+    ]
+  }
+}
