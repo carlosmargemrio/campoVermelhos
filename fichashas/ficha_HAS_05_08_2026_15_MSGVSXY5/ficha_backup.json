@@ -1,0 +1,246 @@
+{
+  "kind": "FichaCampoWebView_HAS_RECORD_BACKUP",
+  "backupVersion": 1,
+  "appVersion": "v24",
+  "exportedAt": "2026-08-06T11:56:28.001Z",
+  "dbName": "fichacampo_v_final_corrigido",
+  "record": {
+    "id": "MSGVSXY5",
+    "status": "COMPLETED",
+    "createdAt": 1785982393452,
+    "updatedAt": 1786017375126,
+    "dataCampo": "2026-08-05",
+    "horaIni": "08:57",
+    "horaFim": "12:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Empreendimento Minéro-Industrial N8N9 - Juazeiro - BA",
+    "localidade": "Juazeiro - BA",
+    "empresaExecutora": "HAS CONSULTORIA",
+    "fichaNumero": "15",
+    "coordenadasTexto": "",
+    "coordCampo": "Carlos Rocha",
+    "arqResp": "Carlos Rocha",
+    "cargoResponsavel": "Arqueólogo",
+    "tipoAcao": "supressão vegetal ",
+    "trecho": "Expansão da oficina mecânica TGL",
+    "tipoIntervencao": "Supressão Vegetal",
+    "tipoIntervencaoOutro": "",
+    "clima": "Ensolarado",
+    "climaOutro": "",
+    "vegetacao": "",
+    "relevo": "",
+    "solo": "Silto-arenoso",
+    "granulometria": "Média",
+    "vestigios": "NAO",
+    "tipoEvidencia": "",
+    "materiaisEncontrados": "",
+    "tipoMaterial": "",
+    "tipoMaterialOutro": "",
+    "coleta": "NAO",
+    "amostrasAnalise": "",
+    "fotografias": "",
+    "croquis": "",
+    "houveAlteracaoContexto": "",
+    "medidasAdotadas": "Realização de vistoria arqueológica prévia, acompanhamento concomitante da supressão vegetal e da mobilização superficial do terreno, inspeção dirigida das clareiras, concentrações naturais de quartzo, leiras preexistentes e demais superfícies expostas, seguida de nova vistoria sobre o terreno e os sedimentos mobilizados após a passagem da escavadeira. Foram efetuados registros fotográficos e georreferenciados da área antes, durante e após a intervenção.",
+    "interrupcaoAtividade": "",
+    "motivoInterrupcao": "",
+    "observacoesRecomendacoes": "A área apresentava elevado grau de alteração antrópica prévia, com superfícies revolvidas, leiras de sedimentos e estruturas operacionais, condição que limitava a leitura de eventuais relações superficiais originais em parte significativa do terreno. Ainda assim, a vistoria compreendeu os trechos remanescentes de vegetação, as clareiras com concentrações naturais de quartzo, as leiras preexistentes e, após a intervenção mecânica, toda a superfície recém-exposta e os sedimentos mobilizados. Não foram identificadas evidências arqueológicas durante a atividade. Recomenda-se a manutenção do monitoramento arqueológico das etapas (caso hajam) subsequentes que impliquem escavações de fundações, implantação de drenagem, abertura de valas ou rebaixamentos mais profundos do terreno, conforme os procedimentos previstos no PGPA.",
+    "observacoesExtras": "",
+    "desc": "Foi realizado o acompanhamento arqueológico de uma área com aproximadamente 300m² destinada à ampliação da oficina mecânica. Antes da intervenção, registramos que cerca de 85% da área apresentava sinais de antropização anterior, incluindo superfícies revolvidas, acessos, estruturas operacionais e leiras de sedimentos e fragmentos rochosos, preliminarmente relacionadas a sondagens ou outras movimentações anteriores do terreno. Nos trechos remanescentes, a cobertura vegetal era constituída por Caatinga arbustiva a arbóreo-arbustiva, com estrato herbáceo seco, espécies espinescentes e acúmulo de galhos, folhas e matéria vegetal sobre a superfície. Identificou-se uma clareira com concentração superficial de quartzo e rochas quartzosas.\nInicialmente, foi realizada vistoria prévia em toda a área acessível, com atenção às clareiras, concentrações de quartzo e cascalho, leiras, superfícies expostas, bases de árvores, raízes, áreas erodidas ou bioturbadas e possíveis alterações sedimentares. A inspeção buscou materiais líticos, cerâmicos e históricos, além de manchas, carvões, estruturas, alinhamentos e feições de possível origem antrópica pretérita. Na sequência, foi acompanhado o avanço da supressão e da mobilização superficial do terreno, executadas com escavadeira hidráulica sobre esteiras. Após a passagem do equipamento, toda a superfície recém-alterada, os sedimentos mobilizados e as bordas da intervenção foram novamente vistoriados. Não foram identificados materiais arqueológicos, feições antrópicas pretéritas, alterações sedimentares ou modificações da paisagem de interesse arqueológico. A concentração de quartzo não apresentou atributos tecnológicos ou materiais associados que indicassem atividade humana pretérita. O resultado foi negativo para evidências arqueológicas nas superfícies efetivamente acompanhadas.",
+    "obs": "",
+    "modeloDocx": "HAS_ACOMPANHAMENTO",
+    "tradagens": []
+  },
+  "images": [
+    {
+      "key": "MSGVSXY5_1785982651042_6srtrm42sn5",
+      "recordId": "MSGVSXY5",
+      "filename": "TimePhoto_20260805_085758.jpg",
+      "dt": "2026:08:05 08:57:58",
+      "coords": [
+        -39.941916388888885,
+        -9.31286
+      ],
+      "utm": {
+        "zone": 24,
+        "band": "L",
+        "easting": 396556,
+        "northing": 8970421
+      },
+      "dir": null,
+      "caption": "Vista geral da área antes da intervenção, com cobertura de Caatinga arbustiva a arbóreo-arbustiva, estrato herbáceo seco e variação na densidade da vegetação",
+      "created": 1785982651042,
+      "hashArquivo_sha256": "335cc69b3f2795c1b0114a48997be18be10a03fde37de49cd6f4639b136d6cf5",
+      "gpsFonte": "EXIF_JS",
+      "exifJsStatus": "GPS_OK",
+      "exifNativeStatus": null,
+      "exifNativeModoLeitura": null,
+      "exifNativeData": null,
+      "exifNativeLat": null,
+      "exifNativeLon": null
+    },
+    {
+      "key": "MSGVSXY5_1785982651076_7s62vgdnywm",
+      "recordId": "MSGVSXY5",
+      "filename": "TimePhoto_20260805_090115.jpg",
+      "dt": "2026:08:05 09:01:15",
+      "coords": [
+        -39.941988055555555,
+        -9.312988333333333
+      ],
+      "utm": {
+        "zone": 24,
+        "band": "L",
+        "easting": 396548,
+        "northing": 8970407
+      },
+      "dir": null,
+      "caption": "Trecho com clareira e concentração superficial de fragmentos de quartzo e rochas quartzosas, submetido à inspeção arqueológica dirigida antes da intervenção mecânica",
+      "created": 1785982651076,
+      "hashArquivo_sha256": "acceb22d5c2f4ea9546778b48a8a275a27cb6600730efa9cb4b93e25acb85eaa",
+      "gpsFonte": "EXIF_JS",
+      "exifJsStatus": "GPS_OK",
+      "exifNativeStatus": null,
+      "exifNativeModoLeitura": null,
+      "exifNativeData": null,
+      "exifNativeLat": null,
+      "exifNativeLon": null
+    },
+    {
+      "key": "MSGVSXY5_1785982651109_ndg8b9uzljd",
+      "recordId": "MSGVSXY5",
+      "filename": "TimePhoto_20260805_090217.jpg",
+      "dt": "2026:08:05 09:02:17",
+      "coords": [
+        -39.941945,
+        -9.312924722222222
+      ],
+      "utm": {
+        "zone": 24,
+        "band": "L",
+        "easting": 396553,
+        "northing": 8970414
+      },
+      "dir": null,
+      "caption": "Superfície vistoriada antes da supressão, com cobertura vegetal seca, fragmentos rochosos e acumulações de sedimentos associadas a movimentações anteriores do terreno",
+      "created": 1785982651109,
+      "hashArquivo_sha256": "9abaf196482a045bb644f424c399365f400e9329fec6d1cf9ce2d24e655f9c4f",
+      "gpsFonte": "EXIF_JS",
+      "exifJsStatus": "GPS_OK",
+      "exifNativeStatus": null,
+      "exifNativeModoLeitura": null,
+      "exifNativeData": null,
+      "exifNativeLat": null,
+      "exifNativeLon": null
+    },
+    {
+      "key": "MSGVSXY5_1785982651138_5l9yldy5mnb",
+      "recordId": "MSGVSXY5",
+      "filename": "TimePhoto_20260805_091555.jpg",
+      "dt": "2026:08:05 09:15:55",
+      "coords": [
+        -39.941736388888884,
+        -9.312833055555556
+      ],
+      "utm": {
+        "zone": 24,
+        "band": "L",
+        "easting": 396576,
+        "northing": 8970424
+      },
+      "dir": null,
+      "caption": "Trecho adjacente às instalações existentes da oficina mecânica, evidenciando a proximidade com estruturas operacionais e o grau de antropização anterior da área",
+      "created": 1785982651138,
+      "hashArquivo_sha256": "4620f5ee5d52f29bce381369c127faacec6644861b6490896c525dc79d10ce9d",
+      "gpsFonte": "EXIF_JS",
+      "exifJsStatus": "GPS_OK",
+      "exifNativeStatus": null,
+      "exifNativeModoLeitura": null,
+      "exifNativeData": null,
+      "exifNativeLat": null,
+      "exifNativeLon": null
+    },
+    {
+      "key": "MSGVSXY5_1785982651156_8lmowkgfu0t",
+      "recordId": "MSGVSXY5",
+      "filename": "TimePhoto_20260805_100252.jpg",
+      "dt": "2026:08:05 10:02:52",
+      "coords": [
+        -39.941806666666665,
+        -9.312898333333335
+      ],
+      "utm": {
+        "zone": 24,
+        "band": "L",
+        "easting": 396568,
+        "northing": 8970417
+      },
+      "dir": null,
+      "caption": "Vistoria arqueológica da superfície recém-alterada após a passagem da escavadeira, com inspeção do sedimento exposto e dos materiais mobilizados",
+      "created": 1785982651157,
+      "hashArquivo_sha256": "cd6438f28acf417cfcd46f1099002140d59f5f0508583a6c0af57b379a7bf2bf",
+      "gpsFonte": "EXIF_JS",
+      "exifJsStatus": "GPS_OK",
+      "exifNativeStatus": null,
+      "exifNativeModoLeitura": null,
+      "exifNativeData": null,
+      "exifNativeLat": null,
+      "exifNativeLon": null
+    },
+    {
+      "key": "MSGVSXY5_1785982651176_mbewx961ap8",
+      "recordId": "MSGVSXY5",
+      "filename": "TimePhoto_20260805_100427.jpg",
+      "dt": "2026:08:05 10:04:27",
+      "coords": [
+        -39.94179638888888,
+        -9.312858055555557
+      ],
+      "utm": {
+        "zone": 24,
+        "band": "L",
+        "easting": 396569,
+        "northing": 8970421
+      },
+      "dir": null,
+      "caption": "Vista geral da área após a intervenção, com exposição do sedimento, da fração cascalhosa e dos fragmentos rochosos, sem identificação de materiais ou feições arqueológicas",
+      "created": 1785982651176,
+      "hashArquivo_sha256": "30cea163878a485583120ae03b91776351d89d635a71f53ee65b4bfd7afed3b2",
+      "gpsFonte": "EXIF_JS",
+      "exifJsStatus": "GPS_OK",
+      "exifNativeStatus": null,
+      "exifNativeModoLeitura": null,
+      "exifNativeData": null,
+      "exifNativeLat": null,
+      "exifNativeLon": null
+    },
+    {
+      "key": "MSGVSXY5_1785982961443_swmpn0hom3l",
+      "recordId": "MSGVSXY5",
+      "filename": "TimePhoto_20260805_095626.jpg",
+      "dt": "2026:08:05 09:56:26",
+      "coords": [
+        -39.941831666666666,
+        -9.312935000000001
+      ],
+      "utm": {
+        "zone": 24,
+        "band": "L",
+        "easting": 396566,
+        "northing": 8970413
+      },
+      "dir": null,
+      "caption": "Acompanhamento da retirada da vegetação e da mobilização superficial do terreno com escavadeira hidráulica sobre esteiras, na área destinada à ampliação da oficina mecânica",
+      "created": 1785982961443,
+      "hashArquivo_sha256": "bfe833cf306b3f20b21ab7a2aaa483c024d130cd3b6acbb6da26667be46b83ad",
+      "gpsFonte": "EXIF_JS",
+      "exifJsStatus": "GPS_OK",
+      "exifNativeStatus": null,
+      "exifNativeModoLeitura": null,
+      "exifNativeData": null,
+      "exifNativeLat": null,
+      "exifNativeLon": null
+    }
+  ]
+}
